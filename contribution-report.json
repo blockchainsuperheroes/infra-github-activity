@@ -13,6 +13,202 @@
   ],
   "commits": [
     {
+      "date": "2026-06-15T02:23:33Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add canonical User Resolution section (email->PNS-"
+    },
+    {
+      "date": "2026-06-14T19:19:36Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Document internal wallet usage: identity-owned, JW"
+    },
+    {
+      "date": "2026-06-03T15:38:25Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Merge remote-tracking branch 'gitea/main'"
+    },
+    {
+      "date": "2026-06-03T15:38:11Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Resolve SSO docs contradiction: scope WRONG warnin"
+    },
+    {
+      "date": "2026-06-01T07:24:05Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Restore SSO widget docs with agreed structure: /lo"
+    },
+    {
+      "date": "2026-06-01T07:22:21Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Keep /sign-in as redirect to /login for backward c"
+    },
+    {
+      "date": "2026-06-01T07:21:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Remove /sign-in alias, keep clean naming: /login f"
+    },
+    {
+      "date": "2026-06-01T07:13:50Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Document new /sso-login-widget OAuth2 flow and cla"
+    },
+    {
+      "date": "2026-05-31T23:06:59Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add standard email header, unsubscribe proce"
+    },
+    {
+      "date": "2026-05-31T23:04:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add campaign email standards: header format, image"
+    },
+    {
+      "date": "2026-05-30T04:43:44Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Docs: explicitly ban both redirects AND popups to "
+    },
+    {
+      "date": "2026-05-30T04:42:16Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Docs: emphasize in-app login, never redirect to pe"
+    },
+    {
+      "date": "2026-05-25T06:01:45Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add email infrastructure guide + V6 friend e"
+    },
+    {
+      "date": "2026-05-20T04:46:35Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add Architecture & Shared API section - documents "
+    },
+    {
+      "date": "2026-05-11T00:10:05Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add popup login modal implementations (React"
+    },
+    {
+      "date": "2026-05-11T00:06:33Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: emphasize direct API login over redirects, a"
+    },
+    {
+      "date": "2026-05-10T23:41:18Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add Pattern 5 (wallet-first + PG optional) w"
+    },
+    {
+      "date": "2026-05-10T23:03:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add integration patterns, login methods, wal"
+    },
+    {
+      "date": "2026-05-10T22:35:50Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add NFT Data Platform section with collectio"
+    },
+    {
+      "date": "2026-05-10T22:33:32Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add database reference, app key requirements"
+    },
+    {
+      "date": "2026-04-29T23:33:47Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Update docs: legacy username login removed, PNS is"
+    },
+    {
+      "date": "2026-04-29T21:07:58Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Reframe VIP section: developer API -> My Data acce"
+    },
+    {
+      "date": "2026-04-29T21:07:31Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Update VIP page URL to /mydata"
+    },
+    {
+      "date": "2026-04-28T05:48:43Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add PNS login documentation"
+    },
+    {
+      "date": "2026-04-28T03:53:41Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Initial Pentagon Identity API docs - public develo"
+    },
+    {
+      "date": "2026-06-14T01:15:24Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "emiko02-routing-docs",
+      "message": "Update: T1 Claude Code wired into proxy + nftprof "
+    },
+    {
+      "date": "2026-06-14T01:09:01Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "emiko02-routing-docs",
+      "message": "Emiko02 per-user routing + card AI tiers + Claude "
+    },
+    {
+      "date": "2026-06-13T16:42:52Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-06-13"
+    },
+    {
       "date": "2026-06-13T16:34:07Z",
       "author": "Idon Liu",
       "login": "nftprof",
@@ -53,6 +249,20 @@
       "login": "dipakitaliya",
       "repo": "infra-github-activity",
       "message": "node script to get Contribution Report of  organiz"
+    },
+    {
+      "date": "2026-06-13T16:42:51Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-06-13"
+    },
+    {
+      "date": "2026-02-22T05:33:55Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "infra-activity-dashboard",
+      "message": "Add contribution report mirror"
     },
     {
       "date": "2026-06-13T00:44:26Z",
@@ -2974,27 +3184,6 @@
       "message": "add rainbow wallet"
     },
     {
-      "date": "2025-06-14T08:50:03Z",
-      "author": "ntchungse",
-      "login": "ntchungse",
-      "repo": "games-gunnies-frontend",
-      "message": "add rabby wallet"
-    },
-    {
-      "date": "2025-06-14T05:13:05Z",
-      "author": "ntchungse",
-      "login": "ntchungse",
-      "repo": "games-gunnies-frontend",
-      "message": "handle error message"
-    },
-    {
-      "date": "2025-06-14T04:31:57Z",
-      "author": "ntchungse",
-      "login": "ntchungse",
-      "repo": "games-gunnies-frontend",
-      "message": "add walletconnect"
-    },
-    {
       "date": "2026-06-06T04:17:04Z",
       "author": "Cerise01",
       "login": null,
@@ -3140,167 +3329,6 @@
       "login": null,
       "repo": "games-etherfantasy-backend",
       "message": "Initial commit from production server"
-    },
-    {
-      "date": "2026-06-03T15:38:25Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Merge remote-tracking branch 'gitea/main'"
-    },
-    {
-      "date": "2026-06-03T15:38:11Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Resolve SSO docs contradiction: scope WRONG warnin"
-    },
-    {
-      "date": "2026-06-01T07:24:05Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Restore SSO widget docs with agreed structure: /lo"
-    },
-    {
-      "date": "2026-06-01T07:22:21Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Keep /sign-in as redirect to /login for backward c"
-    },
-    {
-      "date": "2026-06-01T07:21:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Remove /sign-in alias, keep clean naming: /login f"
-    },
-    {
-      "date": "2026-06-01T07:13:50Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Document new /sso-login-widget OAuth2 flow and cla"
-    },
-    {
-      "date": "2026-05-31T23:06:59Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add standard email header, unsubscribe proce"
-    },
-    {
-      "date": "2026-05-31T23:04:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add campaign email standards: header format, image"
-    },
-    {
-      "date": "2026-05-30T04:43:44Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Docs: explicitly ban both redirects AND popups to "
-    },
-    {
-      "date": "2026-05-30T04:42:16Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Docs: emphasize in-app login, never redirect to pe"
-    },
-    {
-      "date": "2026-05-25T06:01:45Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add email infrastructure guide + V6 friend e"
-    },
-    {
-      "date": "2026-05-20T04:46:35Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add Architecture & Shared API section - documents "
-    },
-    {
-      "date": "2026-05-11T00:10:05Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add popup login modal implementations (React"
-    },
-    {
-      "date": "2026-05-11T00:06:33Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: emphasize direct API login over redirects, a"
-    },
-    {
-      "date": "2026-05-10T23:41:18Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add Pattern 5 (wallet-first + PG optional) w"
-    },
-    {
-      "date": "2026-05-10T23:03:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add integration patterns, login methods, wal"
-    },
-    {
-      "date": "2026-05-10T22:35:50Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add NFT Data Platform section with collectio"
-    },
-    {
-      "date": "2026-05-10T22:33:32Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add database reference, app key requirements"
-    },
-    {
-      "date": "2026-04-29T23:33:47Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Update docs: legacy username login removed, PNS is"
-    },
-    {
-      "date": "2026-04-29T21:07:58Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Reframe VIP section: developer API -> My Data acce"
-    },
-    {
-      "date": "2026-04-29T21:07:31Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Update VIP page URL to /mydata"
-    },
-    {
-      "date": "2026-04-28T05:48:43Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add PNS login documentation"
-    },
-    {
-      "date": "2026-04-28T03:53:41Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Initial Pentagon Identity API docs - public develo"
     },
     {
       "date": "2026-06-03T03:49:10Z",
@@ -12627,13 +12655,6 @@
       "message": "Update SDK for Pentagon Chain mainnet (3344)\n\n- Ad"
     },
     {
-      "date": "2026-02-22T05:33:55Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "infra-activity-dashboard",
-      "message": "Add contribution report mirror"
-    },
-    {
       "date": "2026-02-21T20:58:50Z",
       "author": "Idon Liu",
       "login": "nftprof",
@@ -18450,16 +18471,6 @@
   ],
   "calendar": [
     {
-      "date": "2025-06-13",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-06-14",
-      "count": 3,
-      "level": 1
-    },
-    {
       "date": "2025-06-15",
       "count": 0,
       "level": 0
@@ -20276,15 +20287,25 @@
     },
     {
       "date": "2026-06-13",
+      "count": 5,
+      "level": 1
+    },
+    {
+      "date": "2026-06-14",
       "count": 3,
+      "level": 1
+    },
+    {
+      "date": "2026-06-15",
+      "count": 1,
       "level": 1
     }
   ],
   "stats": {
-    "totalCommits": 2089,
+    "totalCommits": 2092,
     "totalPRs": 540,
     "totalIssues": 4,
-    "totalContributions": 3173,
-    "totalRepos": 283
+    "totalContributions": 3176,
+    "totalRepos": 284
   }
 }
