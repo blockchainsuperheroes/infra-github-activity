@@ -13,6 +13,132 @@
   ],
   "commits": [
     {
+      "date": "2026-08-23T20:34:57Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "docs(coord): renderer is the map session's lane — "
+    },
+    {
+      "date": "2026-08-23T20:11:37Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(castle): render the map's STAIRS + a walkable"
+    },
+    {
+      "date": "2026-08-22T17:26:23Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "fix(siege): projectiles use REAL target/shooter he"
+    },
+    {
+      "date": "2026-08-22T17:20:50Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): rampart archers PATROL the wall, lock"
+    },
+    {
+      "date": "2026-08-22T14:44:13Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): pick up latest map (designVersion 20)"
+    },
+    {
+      "date": "2026-08-22T14:28:44Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "docs(brief): relay walkable-ramparts + gate-approa"
+    },
+    {
+      "date": "2026-08-22T14:28:11Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "fix(siege): road-following muster approach (no roc"
+    },
+    {
+      "date": "2026-08-22T14:17:26Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "fix(siege): the charge now FIRES + left-edge siege"
+    },
+    {
+      "date": "2026-08-19T16:47:30Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "docs(siege): mark shipped items (1,6,7,12,13,15) i"
+    },
+    {
+      "date": "2026-08-19T16:43:03Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): alarm on approach + breach fanfare (i"
+    },
+    {
+      "date": "2026-08-19T16:40:07Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): defender farmers working the ward fie"
+    },
+    {
+      "date": "2026-08-19T16:35:32Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): attacker platoon muster — opening ass"
+    },
+    {
+      "date": "2026-08-19T16:20:56Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): inhabited-siege props + the 20-item e"
+    },
+    {
+      "date": "2026-08-19T16:12:49Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "fix(siege): rampart archers were buried inside the"
+    },
+    {
+      "date": "2026-08-17T12:51:41Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): rampart archer garrison — defender ma"
+    },
+    {
+      "date": "2026-08-17T12:42:03Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "docs: 20 items to make the Castle Siege a LIVING s"
+    },
+    {
+      "date": "2026-08-17T12:40:41Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "feat(siege): seed a living economy — attacker stag"
+    },
+    {
+      "date": "2026-08-17T12:37:37Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "etherfantasy-browser-moba-game",
+      "message": "fix(siege): permanent gate breach + defender ward-"
+    },
+    {
       "date": "2026-08-16T17:09:55Z",
       "author": "Claude",
       "login": "claude",
@@ -2790,20 +2916,6 @@
       "login": "nftprof",
       "repo": "etherfantasy-browser-moba-game",
       "message": "Initial commit: EtherFantasy MOBA (game client + a"
-    },
-    {
-      "date": "2026-08-16T14:37:39Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "mining-v2-backend",
-      "message": "Live sync 2026-08-16: community feedback fixes (ho"
-    },
-    {
-      "date": "2026-06-27T22:27:42Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "mining-v2-backend",
-      "message": "Sync production mining-v2-backend (secrets redacte"
     },
     {
       "date": "2026-07-27T13:42:57Z",
@@ -6306,102 +6418,1460 @@
       "message": "canon: wild maps have no attacker CC (StarCraft-ca"
     },
     {
-      "date": "2026-08-16T08:49:13Z",
+      "date": "2026-08-22T11:41:31Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "website/: realism scroll-scrub prototype + build g"
+      "repo": "pc-stake",
+      "message": "KMS signer hardening spec + launch-pack copy pass\n"
     },
     {
-      "date": "2026-08-07T13:48:12Z",
+      "date": "2026-08-22T05:15:35Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Add FIRST_VIDEO.md — plain-English human onboardin"
+      "repo": "pc-stake",
+      "message": "Off-chain claim policy check (advisory layer above"
     },
     {
-      "date": "2026-08-07T13:04:50Z",
+      "date": "2026-08-22T05:05:10Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Per-folder ASSET REFERENCE for all 9 scenes + 11 b"
+      "repo": "pc-stake",
+      "message": "Accruing payout budget replaces the flat daily cap"
     },
     {
-      "date": "2026-07-28T14:07:05Z",
+      "date": "2026-08-22T04:06:33Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Bait 05 + AR premise: experimental baited field (s"
+      "repo": "pc-stake",
+      "message": "Correct the reward unit: $PC to your own wallet, N"
     },
     {
-      "date": "2026-07-28T13:31:42Z",
+      "date": "2026-08-22T03:55:05Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Bait 05: reframe hook — EXPLAIN why food goes stal"
+      "repo": "pc-stake",
+      "message": "Ledger V2 upgrade live: guards set (100 PC/positio"
     },
     {
-      "date": "2026-07-28T13:15:14Z",
+      "date": "2026-08-22T03:15:58Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Bait 05: fix to the AR game's REAL core loop (food"
+      "repo": "pc-stake",
+      "message": "Ledger V2: distribution guards against a compromis"
     },
     {
-      "date": "2026-07-27T16:23:05Z",
+      "date": "2026-08-21T18:01:33Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Baits: prioritize by star + ease (starred first, s"
+      "repo": "pc-stake",
+      "message": "v1 is open to all: stop claiming an enforced membe"
     },
     {
-      "date": "2026-07-27T16:03:56Z",
+      "date": "2026-08-21T17:57:21Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Baits: split into per-category folders + 5 new gen"
+      "repo": "pc-stake",
+      "message": "Handover: emergencyUnlock=false + terms 90/730 app"
     },
     {
-      "date": "2026-07-27T15:51:29Z",
+      "date": "2026-08-21T14:23:26Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Marketing: viral short-commercial scripts (6 genre"
+      "repo": "pc-stake",
+      "message": "Owner handover doc: ownership transferred to PG wa"
     },
     {
-      "date": "2026-07-27T15:24:50Z",
+      "date": "2026-08-21T14:00:47Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Assets: full self-sufficient library + locked cast"
+      "repo": "pc-stake",
+      "message": "Fix RPC batching (drpc 500s) and open the read-pro"
     },
     {
-      "date": "2026-07-27T14:53:22Z",
+      "date": "2026-08-21T10:22:41Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "README: human landing page (10-min onboarding + co"
+      "repo": "pc-stake",
+      "message": "Make the open-source repo obvious: source link in "
     },
     {
-      "date": "2026-07-27T14:40:01Z",
+      "date": "2026-08-21T10:13:27Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Cinematics: START_HERE + WORLD_BRIEF/MASTER_PLAN +"
+      "repo": "pc-stake",
+      "message": "Fix 'Failed to fetch' (RPC failover), $PC TVL, emp"
     },
     {
-      "date": "2026-07-27T14:07:07Z",
+      "date": "2026-08-04T13:44:57Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "Canon: source docs + character map + world geograp"
+      "repo": "pc-stake",
+      "message": "Brand the app as GetPC 2 (matches the /getPC2/ pat"
     },
     {
-      "date": "2026-07-27T13:04:14Z",
+      "date": "2026-08-04T13:33:07Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "ef-hunt-cinematics",
-      "message": "EF Hunt cinematics: per-scene brief repo (9 scenes"
+      "repo": "pc-stake",
+      "message": "Announcement URLs -> bridge.pentagon.games/getPC2/"
+    },
+    {
+      "date": "2026-08-04T12:03:58Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Add GetPC 2 launch announcement pack (DRAFT — hold"
+    },
+    {
+      "date": "2026-08-04T03:54:32Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Farewell flash on redeem, collapse completed locks"
+    },
+    {
+      "date": "2026-08-04T02:21:23Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Fix: redeem button stuck disabled — emergencyUnloc"
+    },
+    {
+      "date": "2026-08-03T16:35:45Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Add 'welcome' to the nav; CTA reads 'Start Your Pe"
+    },
+    {
+      "date": "2026-08-03T04:44:43Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Slogan: 'Embrace the Pentagon AI Era' + closing ra"
+    },
+    {
+      "date": "2026-08-02T16:27:11Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Marketing landing page, live claimable ticker, red"
+    },
+    {
+      "date": "2026-08-02T16:04:28Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Fix PG Points showing 0: adaptive precision + clai"
+    },
+    {
+      "date": "2026-08-02T15:33:48Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Fix claim breaking My locks; PG Points naming; con"
+    },
+    {
+      "date": "2026-08-02T14:23:44Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Security self-review + M-1 hardening (ledger term "
+    },
+    {
+      "date": "2026-08-02T14:09:59Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "My locks: gold highlight card so positions stand o"
+    },
+    {
+      "date": "2026-08-02T14:05:19Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Copy: drop 'don't endorse buying' line, keep 'loya"
+    },
+    {
+      "date": "2026-08-02T04:02:50Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Gas note: registered members get initial gas free "
+    },
+    {
+      "date": "2026-08-02T03:54:42Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Frontend: claims.html + claiming section in gate t"
+    },
+    {
+      "date": "2026-08-02T03:27:24Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Frontend: rewards-vs-principal terms clarity, guid"
+    },
+    {
+      "date": "2026-08-02T02:40:50Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "Frontend: simplified bridge-style UX (gate, steppe"
+    },
+    {
+      "date": "2026-08-01T16:38:40Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "lockUpgrades(): owner can irreversibly forfeit upg"
+    },
+    {
+      "date": "2026-08-01T16:12:48Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake",
+      "message": "PC Commitment Rewards: UUPS contracts, tests (17/1"
+    },
+    {
+      "date": "2026-08-22T05:15:33Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Off-chain claim policy check (advisory layer above"
+    },
+    {
+      "date": "2026-08-22T05:05:08Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Accruing payout budget replaces the flat daily cap"
+    },
+    {
+      "date": "2026-08-22T04:06:31Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Correct the reward unit: $PC to your own wallet, N"
+    },
+    {
+      "date": "2026-08-21T18:01:29Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "v1 is open to all: stop claiming an enforced membe"
+    },
+    {
+      "date": "2026-08-21T14:00:45Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Fix RPC batching (drpc 500s) and open the read-pro"
+    },
+    {
+      "date": "2026-08-21T10:22:39Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Make the open-source repo obvious: source link in "
+    },
+    {
+      "date": "2026-08-21T10:13:25Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Fix 'Failed to fetch' (RPC failover), $PC TVL, emp"
+    },
+    {
+      "date": "2026-08-04T13:44:54Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Brand the app as GetPC 2 (matches the /getPC2/ pat"
+    },
+    {
+      "date": "2026-08-04T03:54:29Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Farewell flash on redeem, collapse completed locks"
+    },
+    {
+      "date": "2026-08-04T02:21:20Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Fix: redeem button stuck disabled — emergencyUnloc"
+    },
+    {
+      "date": "2026-08-03T16:35:42Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Add 'welcome' to the nav; CTA reads 'Start Your Pe"
+    },
+    {
+      "date": "2026-08-03T04:44:36Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Slogan: 'Embrace the Pentagon AI Era' + closing ra"
+    },
+    {
+      "date": "2026-08-02T16:27:08Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Marketing landing page, live claimable ticker, red"
+    },
+    {
+      "date": "2026-08-02T16:04:25Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Fix PG Points showing 0: adaptive precision + clai"
+    },
+    {
+      "date": "2026-08-02T15:33:45Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Fix claim breaking My locks; PG Points naming; con"
+    },
+    {
+      "date": "2026-08-02T14:09:56Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "My locks: gold highlight card so positions stand o"
+    },
+    {
+      "date": "2026-08-02T14:05:17Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Copy: drop 'don't endorse buying' line, keep 'loya"
+    },
+    {
+      "date": "2026-08-02T04:02:47Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Gas note: registered Pentagon Games members get in"
+    },
+    {
+      "date": "2026-08-02T03:54:40Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Add claims.html: claiming explained (weekly, PC-ch"
+    },
+    {
+      "date": "2026-08-02T03:27:21Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Terms clarity + guide landing + tranche preview\n\n-"
+    },
+    {
+      "date": "2026-08-02T02:40:47Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "Simplify UX to bridge pattern: gated terms, clean "
+    },
+    {
+      "date": "2026-08-01T16:37:41Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pc-stake-frontend",
+      "message": "PC Commitment Rewards community frontend (preview)"
+    },
+    {
+      "date": "2026-08-22T05:15:31Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Off-chain claim policy check (advisory layer above"
+    },
+    {
+      "date": "2026-08-22T05:05:06Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Accruing payout budget replaces the flat daily cap"
+    },
+    {
+      "date": "2026-08-22T04:06:29Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Correct the reward unit: $PC to your own wallet, N"
+    },
+    {
+      "date": "2026-08-21T18:01:26Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "v1 is open to all: stop claiming an enforced membe"
+    },
+    {
+      "date": "2026-08-21T14:00:44Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Fix RPC batching (drpc 500s) and open the read-pro"
+    },
+    {
+      "date": "2026-08-21T10:22:37Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Make the open-source repo obvious: source link in "
+    },
+    {
+      "date": "2026-08-21T10:13:23Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Fix 'Failed to fetch' (RPC failover), $PC TVL, emp"
+    },
+    {
+      "date": "2026-08-04T13:44:52Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Brand the app as GetPC 2 (matches the /getPC2/ pat"
+    },
+    {
+      "date": "2026-08-04T13:27:17Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Move staking app to /getPC2/ under the bridge site"
+    },
+    {
+      "date": "2026-08-04T03:54:26Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Farewell flash on redeem, collapse completed locks"
+    },
+    {
+      "date": "2026-08-04T02:21:17Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Fix: redeem button stuck disabled — emergencyUnloc"
+    },
+    {
+      "date": "2026-08-03T16:35:35Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Add 'welcome' to the nav; CTA reads 'Start Your Pe"
+    },
+    {
+      "date": "2026-08-03T04:44:30Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Slogan: 'Embrace the Pentagon AI Era' + closing ra"
+    },
+    {
+      "date": "2026-08-02T16:27:06Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Marketing landing page, live claimable ticker, red"
+    },
+    {
+      "date": "2026-08-02T16:04:22Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Fix PG Points showing 0: adaptive precision + clai"
+    },
+    {
+      "date": "2026-08-02T15:33:42Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Fix claim breaking My locks; PG Points naming; con"
+    },
+    {
+      "date": "2026-08-02T14:09:54Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "My locks: gold highlight card so positions stand o"
+    },
+    {
+      "date": "2026-08-02T14:05:14Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Copy: drop 'don't endorse buying' line, keep 'loya"
+    },
+    {
+      "date": "2026-08-02T13:40:03Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Add $PC staking TEST app under /stake/ (unlisted, "
+    },
+    {
+      "date": "2026-08-01T13:50:19Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "PC payout tx links: open internal_txns tab (shows "
+    },
+    {
+      "date": "2026-08-01T13:27:18Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Live PC payout detection via Pages Function + show"
+    },
+    {
+      "date": "2026-08-01T06:48:18Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Resumable top-up: persist interrupted flow, offer "
+    },
+    {
+      "date": "2026-08-01T06:04:20Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Fix stepper hang: poll chain directly instead of t"
+    },
+    {
+      "date": "2026-08-01T05:30:54Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Restructure for Cloudflare Pages (public/ output d"
+    },
+    {
+      "date": "2026-08-01T05:26:20Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Post-lock status tracker: ETH confirmations + PC c"
+    },
+    {
+      "date": "2026-08-01T03:20:41Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Add browser-local History tab for recent top-ups\n\n"
+    },
+    {
+      "date": "2026-07-31T17:10:46Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Terms gate: scrollable TOS box (scroll-to-enable),"
+    },
+    {
+      "date": "2026-07-31T16:51:56Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Guided multi-step swap flow: one verified button p"
+    },
+    {
+      "date": "2026-07-31T15:23:40Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Add .assetsignore so .git and config files are not"
+    },
+    {
+      "date": "2026-07-31T15:16:45Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Add wrangler.toml for Cloudflare static-assets dep"
+    },
+    {
+      "date": "2026-07-31T15:04:34Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Point source link to blockchainsuperheroes org\n\nCo"
+    },
+    {
+      "date": "2026-07-31T14:39:41Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Aave-style open-source / community-built / non-cus"
+    },
+    {
+      "date": "2026-07-31T14:32:05Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "Add community-built + Cloudflare Pages disclaimer\n"
+    },
+    {
+      "date": "2026-07-31T14:24:21Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "bridge2-frontend",
+      "message": "bridge2 frontend: one-way PC top-up UI (deposit + "
+    },
+    {
+      "date": "2026-07-31T14:59:39Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Wallet-only auth rewrite + operator management; fa"
+    },
+    {
+      "date": "2026-06-02T00:13:00Z",
+      "author": "root",
+      "login": null,
+      "repo": "cli-pentagon-config-fe",
+      "message": "Update VIP faucet signer address to 0xaEeb575E"
+    },
+    {
+      "date": "2026-06-01T23:51:19Z",
+      "author": "root",
+      "login": null,
+      "repo": "cli-pentagon-config-fe",
+      "message": "Add 4 VIP faucet funding components as faucet wall"
+    },
+    {
+      "date": "2026-06-01T22:46:23Z",
+      "author": "root",
+      "login": null,
+      "repo": "cli-pentagon-config-fe",
+      "message": "Revert \"Add 4 critical funding components section "
+    },
+    {
+      "date": "2026-06-01T22:35:10Z",
+      "author": "Ubuntu",
+      "login": null,
+      "repo": "cli-pentagon-config-fe",
+      "message": "Add 4 critical funding components section to PC fa"
+    },
+    {
+      "date": "2026-05-31T22:44:56Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Replace V1 CampaignReward with V2 (0x9A07): contra"
+    },
+    {
+      "date": "2026-05-31T21:30:55Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Rebuild Stripe page with full account details, SKU"
+    },
+    {
+      "date": "2026-05-31T20:13:00Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Rename to User Gas Drop (Email Verify / EOA Add)"
+    },
+    {
+      "date": "2026-05-31T20:08:11Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Remove deprecated testnet faucet, update Email Ver"
+    },
+    {
+      "date": "2026-05-31T20:02:13Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Rename Deployer to Agent Deployer & Airdrop - expl"
+    },
+    {
+      "date": "2026-05-31T19:57:49Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Update Payment Minter (0x9A7c, 91 PC, Stripe rewar"
+    },
+    {
+      "date": "2026-05-31T19:51:07Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Split Green Day into Contract (PC tokens) + Keeper"
+    },
+    {
+      "date": "2026-05-31T19:42:00Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Fix status dot: check ERC-20 and ETH balances too,"
+    },
+    {
+      "date": "2026-05-31T19:35:45Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Fix Green Day ETH RPC (ankr->mevblocker), rename M"
+    },
+    {
+      "date": "2026-05-31T18:56:09Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Add last activity column - fetches latest outgoing"
+    },
+    {
+      "date": "2026-05-31T18:02:39Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Add PC Faucet page - all 9 faucet/gas wallets with"
+    },
+    {
+      "date": "2026-05-20T04:57:09Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "sync: pull server app-keys changes + monthly volum"
+    },
+    {
+      "date": "2026-05-20T04:32:21Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: interactive SKU management on crypto payment"
+    },
+    {
+      "date": "2026-05-07T22:17:56Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "fix: suppress indexedDB ReferenceError in SSR for "
+    },
+    {
+      "date": "2026-05-07T22:07:10Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: expand crypto payments dashboard with 21 SKU"
+    },
+    {
+      "date": "2026-05-04T01:19:08Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add User Management page with on-chain role "
+    },
+    {
+      "date": "2026-05-04T01:10:30Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add Payments section (Crypto Processor + Cre"
+    },
+    {
+      "date": "2026-04-29T17:29:49Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "fix: type errors in rpc-cors action returns"
+    },
+    {
+      "date": "2026-04-29T17:21:21Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add RPC CORS Whitelist management page\n\n- Ne"
+    },
+    {
+      "date": "2026-04-29T03:48:14Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add Frontend URL column to App Keys table\n\nS"
+    },
+    {
+      "date": "2026-04-29T02:54:35Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add App Key Management page\n\n- New dashboard"
+    },
+    {
+      "date": "2026-04-17T08:20:09Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "docs: update deploy/withdraw pages with accurate Z"
+    },
+    {
+      "date": "2026-04-15T05:16:35Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add direct link to on-chain write contract f"
+    },
+    {
+      "date": "2026-04-12T00:30:30Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add on-chain contract status to deploy and w"
+    },
+    {
+      "date": "2026-04-11T21:00:32Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: restructure nav + add detailed endpoint tabl"
+    },
+    {
+      "date": "2026-04-11T20:56:06Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "fix: lazy-init publicClient to fix edge runtime bu"
+    },
+    {
+      "date": "2026-04-11T20:49:57Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "docs: add detailed descriptions + API info to all "
+    },
+    {
+      "date": "2026-04-07T01:37:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "refactor: reorganize nav - flat menu with Bridge s"
+    },
+    {
+      "date": "2026-04-07T01:30:26Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "cli-pentagon-config-fe",
+      "message": "feat: add RPC blacklist - block addresses from acc"
+    },
+    {
+      "date": "2025-12-22T11:16:40Z",
+      "author": "Dipak Italiya",
+      "login": "dipakitaliya",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Merge pull request #8 from blockchainsuperheroes/f"
+    },
+    {
+      "date": "2025-12-22T11:15:20Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "add alowed cors"
+    },
+    {
+      "date": "2025-12-22T10:48:38Z",
+      "author": "Dipak Italiya",
+      "login": "dipakitaliya",
+      "repo": "cli-pentagon-config-fe",
+      "message": "Merge pull request #7 from blockchainsuperheroes/f"
+    },
+    {
+      "date": "2025-12-22T03:16:09Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "upgrade react 2 shell"
+    },
+    {
+      "date": "2025-12-19T04:57:47Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "script add user"
+    },
+    {
+      "date": "2025-08-29T06:54:05Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "update rainbowkit"
+    },
+    {
+      "date": "2025-08-29T04:13:55Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "fix approve by address"
+    },
+    {
+      "date": "2025-08-29T01:06:01Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "fix build"
+    },
+    {
+      "date": "2025-08-27T06:43:22Z",
+      "author": "ntchungse",
+      "login": "ChaseNguyen",
+      "repo": "cli-pentagon-config-fe",
+      "message": "fix build"
+    },
+    {
+      "date": "2025-08-27T05:59:57Z",
+      "author": "Chase Nguyen",
+      "login": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "message": "add metamask login (#6)\n\nCo-authored-by: ntchungse"
+    },
+    {
+      "date": "2026-08-21T08:37:15Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: chunk eth_getLogs into <=10k-block windows (me"
+    },
+    {
+      "date": "2026-07-13T06:23:51Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fix: BigInt block-number arithmetic in loadPublic "
+    },
+    {
+      "date": "2026-07-13T05:59:31Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: feed self-recovery — manual retry, last-good-r"
+    },
+    {
+      "date": "2026-07-13T05:48:56Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: surface RPC health — show picked endpoint + re"
+    },
+    {
+      "date": "2026-07-13T04:52:10Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: cache-bust app.js load to force fresh fetch af"
+    },
+    {
+      "date": "2026-07-13T00:00:47Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: fix Activity/Execution History feed — prepend "
+    },
+    {
+      "date": "2026-06-27T03:01:42Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: role-first layout — each role section lists ev"
+    },
+    {
+      "date": "2026-06-27T02:58:31Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: split strategy panel into dedicated Keeper Str"
+    },
+    {
+      "date": "2026-06-27T02:55:55Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: role-scoped strategy/maintenance panel — show "
+    },
+    {
+      "date": "2026-06-16T06:54:05Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: Portfolio History tab — NAV+per-pool+spot SVG "
+    },
+    {
+      "date": "2026-06-16T06:52:09Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "keeper: breakout/rollDown/collapse watcher + portf"
+    },
+    {
+      "date": "2026-06-10T06:30:08Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "audit: TWAP 30s window is fine for deep WETH/USDC "
+    },
+    {
+      "date": "2026-06-10T06:29:26Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "docs: point SESSION-RECOVERY.md to CATCHUP.md as s"
+    },
+    {
+      "date": "2026-06-10T06:25:06Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "keeper: add allocate-vs-topUp auto-branch; add CAT"
+    },
+    {
+      "date": "2026-06-10T06:11:01Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "keeper: implement auto-topup on deposit detection "
+    },
+    {
+      "date": "2026-06-10T05:00:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "deploy: v5 ETHUSDCThreePoolVault 0xb861BFf5 (adds "
+    },
+    {
+      "date": "2026-06-10T04:49:57Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "feat(fe): both-layer fees, idle balances, Top Up U"
+    },
+    {
+      "date": "2026-06-10T04:49:00Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "feat(contract): topUpPools() — deploy idle reserve"
+    },
+    {
+      "date": "2026-06-10T04:37:11Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "docs(fe): clarify LP Fees = both legs (WETH leg au"
+    },
+    {
+      "date": "2026-06-10T04:21:08Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fix(fe): wire instant setSpendConfig + clearer HWM"
+    },
+    {
+      "date": "2026-06-10T04:14:27Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "feat(fe): Execution History tab — full keeper/gove"
+    },
+    {
+      "date": "2026-06-10T04:10:38Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "feat(fe): Role Guide page — per-role usage, emerge"
+    },
+    {
+      "date": "2026-06-10T03:53:43Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fix(fe): spot price math inverted in spotFromSlot0"
+    },
+    {
+      "date": "2026-06-10T03:48:14Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "feat(fe): 3-pool dashboard for ETHUSDCThreePoolVau"
+    },
+    {
+      "date": "2026-06-10T03:41:24Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fix: shrink ThreePoolVault under EIP-170 + deploy "
+    },
+    {
+      "date": "2026-06-10T03:09:53Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "feat: ETHUSDCThreePoolVault — 3-position overlappi"
+    },
+    {
+      "date": "2026-06-10T00:17:01Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "fe: relabel HWM->High Watermark, Spend Buffer->LP "
+    },
+    {
+      "date": "2026-06-09T23:16:19Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "v3: owner set to Safe 0xF60f (not deployer EOA). O"
+    },
+    {
+      "date": "2026-06-09T23:11:11Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "v2 SHIPPED: deployed 0x95381cB29D7072902b1d543A0A6"
+    },
+    {
+      "date": "2026-06-09T23:09:13Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "v2: (1) withdraw dest lockdown to owner|TREASURY ("
+    },
+    {
+      "date": "2026-06-09T22:58:25Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "V2_REQUIRED_CHANGES.md: (1) withdraw dest lockdown"
+    },
+    {
+      "date": "2026-06-09T22:51:09Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Public performance snapshot (no band details): Por"
+    },
+    {
+      "date": "2026-06-09T22:46:06Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Privacy gating: public sees only pool basics (pool"
+    },
+    {
+      "date": "2026-06-09T22:39:39Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Position tab: Range & Steps visualization. Renders"
+    },
+    {
+      "date": "2026-06-09T22:38:09Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "FE: borrow PPT's working interaction stack. Add st"
+    },
+    {
+      "date": "2026-06-09T22:36:02Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Full portal: tabbed dashboard (Overview/Position/A"
+    },
+    {
+      "date": "2026-06-09T22:28:49Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Portal LIVE at eth.pentaswap.io: self-contained st"
+    },
+    {
+      "date": "2026-06-09T22:25:16Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "TWAP_WINDOW 300s->30s (~2-3 blocks) per Idon: span"
+    },
+    {
+      "date": "2026-06-09T22:24:15Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "TWAP_WINDOW 1800s->300s (5min) for the spot-vs-TWA"
+    },
+    {
+      "date": "2026-06-09T22:22:46Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Deploy script: real deployment (owner=deployer/ope"
+    },
+    {
+      "date": "2026-06-09T22:22:07Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Stage 2 (hardening + Gate1/2): SafeERC20 + forceAp"
+    },
+    {
+      "date": "2026-06-09T22:19:23Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Stage 2 (math): vendor real Uniswap TickMath/Liqui"
+    },
+    {
+      "date": "2026-06-09T22:02:19Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Stage 0: Foundry stand-up — libs install + clean b"
+    },
+    {
+      "date": "2026-06-09T20:58:53Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Lock decisions: static vhost serving (like PPT) + "
+    },
+    {
+      "date": "2026-06-09T20:54:00Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "eth-endowment-vault",
+      "message": "Initial scaffold: ETH/USDC endowment vault (fork o"
+    },
+    {
+      "date": "2026-08-19T16:41:54Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs(wallet): add worked example — the custody 'mi"
+    },
+    {
+      "date": "2026-08-19T15:13:43Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add public Wallets & Points page (nomenclatu"
+    },
+    {
+      "date": "2026-08-06T14:40:33Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: PGAI wallet — three account types, penai bin"
+    },
+    {
+      "date": "2026-07-17T09:30:20Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: white-label SSO integration guide (flows, co"
+    },
+    {
+      "date": "2026-06-24T19:15:45Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "pg-identity-docs",
+      "message": "Add spec: NPC-paid protected email relay (user-to-"
+    },
+    {
+      "date": "2026-06-15T02:23:33Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add canonical User Resolution section (email->PNS-"
+    },
+    {
+      "date": "2026-06-14T19:19:36Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Document internal wallet usage: identity-owned, JW"
+    },
+    {
+      "date": "2026-06-03T15:38:25Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Merge remote-tracking branch 'gitea/main'"
+    },
+    {
+      "date": "2026-06-03T15:38:11Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Resolve SSO docs contradiction: scope WRONG warnin"
+    },
+    {
+      "date": "2026-06-01T07:24:05Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Restore SSO widget docs with agreed structure: /lo"
+    },
+    {
+      "date": "2026-06-01T07:22:21Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Keep /sign-in as redirect to /login for backward c"
+    },
+    {
+      "date": "2026-06-01T07:21:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Remove /sign-in alias, keep clean naming: /login f"
+    },
+    {
+      "date": "2026-06-01T07:13:50Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Document new /sso-login-widget OAuth2 flow and cla"
+    },
+    {
+      "date": "2026-05-31T23:06:59Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add standard email header, unsubscribe proce"
+    },
+    {
+      "date": "2026-05-31T23:04:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add campaign email standards: header format, image"
+    },
+    {
+      "date": "2026-05-30T04:43:44Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Docs: explicitly ban both redirects AND popups to "
+    },
+    {
+      "date": "2026-05-30T04:42:16Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Docs: emphasize in-app login, never redirect to pe"
+    },
+    {
+      "date": "2026-05-25T06:01:45Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add email infrastructure guide + V6 friend e"
+    },
+    {
+      "date": "2026-05-20T04:46:35Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add Architecture & Shared API section - documents "
+    },
+    {
+      "date": "2026-05-11T00:10:05Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add popup login modal implementations (React"
+    },
+    {
+      "date": "2026-05-11T00:06:33Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: emphasize direct API login over redirects, a"
+    },
+    {
+      "date": "2026-05-10T23:41:18Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add Pattern 5 (wallet-first + PG optional) w"
+    },
+    {
+      "date": "2026-05-10T23:03:22Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add integration patterns, login methods, wal"
+    },
+    {
+      "date": "2026-05-10T22:35:50Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add NFT Data Platform section with collectio"
+    },
+    {
+      "date": "2026-05-10T22:33:32Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "docs: add database reference, app key requirements"
+    },
+    {
+      "date": "2026-04-29T23:33:47Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Update docs: legacy username login removed, PNS is"
+    },
+    {
+      "date": "2026-04-29T21:07:58Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Reframe VIP section: developer API -> My Data acce"
+    },
+    {
+      "date": "2026-04-29T21:07:31Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Update VIP page URL to /mydata"
+    },
+    {
+      "date": "2026-04-28T05:48:43Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Add PNS login documentation"
+    },
+    {
+      "date": "2026-04-28T03:53:41Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "pg-identity-docs",
+      "message": "Initial Pentagon Identity API docs - public develo"
+    },
+    {
+      "date": "2026-08-19T16:03:37Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "products-pfpvault-v13-frontend",
+      "message": "feat(offers): wallet-facing per-token offers API ("
+    },
+    {
+      "date": "2026-08-19T15:28:53Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "products-pfpvault-v13-frontend",
+      "message": "docs: NFT offers integration guide for wallet/app "
     },
     {
       "date": "2026-08-15T15:56:10Z",
@@ -7209,6 +8679,41 @@
       "message": "Initial commit: PFPVault v1.3 UI prototype + backe"
     },
     {
+      "date": "2026-05-16T01:44:05Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "marketplace-v2-contract",
+      "message": "docs: rename to V1 (production) / V2 (development)"
+    },
+    {
+      "date": "2026-05-16T01:40:45Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "marketplace-v2-contract",
+      "message": "docs: upgrade auction spec - real auction house me"
+    },
+    {
+      "date": "2026-05-16T01:14:26Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "marketplace-v2-contract",
+      "message": "docs: comprehensive README with contract docs, flo"
+    },
+    {
+      "date": "2026-05-15T03:42:02Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "marketplace-v2-contract",
+      "message": "fix: V2.1 audit fixes - SafeERC20, consistent nati"
+    },
+    {
+      "date": "2026-05-14T23:36:02Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "marketplace-v2-contract",
+      "message": "feat: PentagonMarketplaceV2 - deployed to Pentagon"
+    },
+    {
       "date": "2026-08-02T16:25:31Z",
       "author": "nftprof",
       "login": "nftprof",
@@ -7902,1572 +9407,123 @@
       "message": "Added NFC NTAG 424 verificatipn api"
     },
     {
-      "date": "2026-08-10T07:23:20Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-08-10"
-    },
-    {
-      "date": "2026-07-27T09:42:28Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-07-27"
-    },
-    {
-      "date": "2026-07-20T08:48:50Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-07-20"
-    },
-    {
-      "date": "2026-07-13T08:56:15Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-07-13"
-    },
-    {
-      "date": "2026-07-06T07:37:28Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-07-06"
-    },
-    {
-      "date": "2026-06-29T07:50:09Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-06-29"
-    },
-    {
-      "date": "2026-06-22T08:03:56Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-06-22"
-    },
-    {
-      "date": "2026-06-15T07:59:07Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-06-15"
-    },
-    {
-      "date": "2026-06-13T16:42:52Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-06-13"
-    },
-    {
-      "date": "2026-06-13T16:34:07Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "infra-github-activity",
-      "message": "Fix CI report regeneration: restore full report.js"
-    },
-    {
-      "date": "2026-03-05T00:36:05Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-github-activity",
-      "message": "Update reports 2026-03-05"
-    },
-    {
-      "date": "2026-03-05T00:34:59Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "infra-github-activity",
-      "message": "Use GH_PAT env var for token in report.js"
-    },
-    {
-      "date": "2026-03-05T00:33:55Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "infra-github-activity",
-      "message": "Add weekly report workflow for activity tracking"
-    },
-    {
-      "date": "2026-02-06T03:09:35Z",
-      "author": "Emiko-Pentagon",
-      "login": "nftprof",
-      "repo": "infra-github-activity",
-      "message": "Create README.md"
-    },
-    {
-      "date": "2025-11-24T09:08:14Z",
-      "author": "dipakitaliya",
-      "login": "dipakitaliya",
-      "repo": "infra-github-activity",
-      "message": "node script to get Contribution Report of  organiz"
-    },
-    {
-      "date": "2026-08-10T07:23:18Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-08-10"
-    },
-    {
-      "date": "2026-07-27T09:42:27Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-07-27"
-    },
-    {
-      "date": "2026-07-20T08:48:49Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-07-20"
-    },
-    {
-      "date": "2026-07-13T08:56:13Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-07-13"
-    },
-    {
-      "date": "2026-07-06T07:37:27Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-07-06"
-    },
-    {
-      "date": "2026-06-29T07:50:07Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-06-29"
-    },
-    {
-      "date": "2026-06-22T08:03:54Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-06-22"
-    },
-    {
-      "date": "2026-06-15T07:59:06Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-06-15"
-    },
-    {
-      "date": "2026-06-13T16:42:51Z",
-      "author": "github-actions[bot]",
-      "login": "github-actions[bot]",
-      "repo": "infra-activity-dashboard",
-      "message": "Update contribution report 2026-06-13"
-    },
-    {
-      "date": "2026-02-22T05:33:55Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "infra-activity-dashboard",
-      "message": "Add contribution report mirror"
-    },
-    {
-      "date": "2026-08-06T14:40:33Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: PGAI wallet — three account types, penai bin"
-    },
-    {
-      "date": "2026-07-17T09:30:20Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: white-label SSO integration guide (flows, co"
-    },
-    {
-      "date": "2026-06-24T19:15:45Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "pg-identity-docs",
-      "message": "Add spec: NPC-paid protected email relay (user-to-"
-    },
-    {
-      "date": "2026-06-15T02:23:33Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add canonical User Resolution section (email->PNS-"
-    },
-    {
-      "date": "2026-06-14T19:19:36Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Document internal wallet usage: identity-owned, JW"
-    },
-    {
-      "date": "2026-06-03T15:38:25Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Merge remote-tracking branch 'gitea/main'"
-    },
-    {
-      "date": "2026-06-03T15:38:11Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Resolve SSO docs contradiction: scope WRONG warnin"
-    },
-    {
-      "date": "2026-06-01T07:24:05Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Restore SSO widget docs with agreed structure: /lo"
-    },
-    {
-      "date": "2026-06-01T07:22:21Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Keep /sign-in as redirect to /login for backward c"
-    },
-    {
-      "date": "2026-06-01T07:21:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Remove /sign-in alias, keep clean naming: /login f"
-    },
-    {
-      "date": "2026-06-01T07:13:50Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Document new /sso-login-widget OAuth2 flow and cla"
-    },
-    {
-      "date": "2026-05-31T23:06:59Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add standard email header, unsubscribe proce"
-    },
-    {
-      "date": "2026-05-31T23:04:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add campaign email standards: header format, image"
-    },
-    {
-      "date": "2026-05-30T04:43:44Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Docs: explicitly ban both redirects AND popups to "
-    },
-    {
-      "date": "2026-05-30T04:42:16Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Docs: emphasize in-app login, never redirect to pe"
-    },
-    {
-      "date": "2026-05-25T06:01:45Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add email infrastructure guide + V6 friend e"
-    },
-    {
-      "date": "2026-05-20T04:46:35Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add Architecture & Shared API section - documents "
-    },
-    {
-      "date": "2026-05-11T00:10:05Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add popup login modal implementations (React"
-    },
-    {
-      "date": "2026-05-11T00:06:33Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: emphasize direct API login over redirects, a"
-    },
-    {
-      "date": "2026-05-10T23:41:18Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add Pattern 5 (wallet-first + PG optional) w"
-    },
-    {
-      "date": "2026-05-10T23:03:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add integration patterns, login methods, wal"
-    },
-    {
-      "date": "2026-05-10T22:35:50Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add NFT Data Platform section with collectio"
-    },
-    {
-      "date": "2026-05-10T22:33:32Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "docs: add database reference, app key requirements"
-    },
-    {
-      "date": "2026-04-29T23:33:47Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Update docs: legacy username login removed, PNS is"
-    },
-    {
-      "date": "2026-04-29T21:07:58Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Reframe VIP section: developer API -> My Data acce"
-    },
-    {
-      "date": "2026-04-29T21:07:31Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Update VIP page URL to /mydata"
-    },
-    {
-      "date": "2026-04-28T05:48:43Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Add PNS login documentation"
-    },
-    {
-      "date": "2026-04-28T03:53:41Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "pg-identity-docs",
-      "message": "Initial Pentagon Identity API docs - public develo"
-    },
-    {
-      "date": "2026-08-04T13:44:57Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Brand the app as GetPC 2 (matches the /getPC2/ pat"
-    },
-    {
-      "date": "2026-08-04T13:33:07Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Announcement URLs -> bridge.pentagon.games/getPC2/"
-    },
-    {
-      "date": "2026-08-04T12:03:58Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Add GetPC 2 launch announcement pack (DRAFT — hold"
-    },
-    {
-      "date": "2026-08-04T03:54:32Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Farewell flash on redeem, collapse completed locks"
-    },
-    {
-      "date": "2026-08-04T02:21:23Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Fix: redeem button stuck disabled — emergencyUnloc"
-    },
-    {
-      "date": "2026-08-03T16:35:45Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Add 'welcome' to the nav; CTA reads 'Start Your Pe"
-    },
-    {
-      "date": "2026-08-03T04:44:43Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Slogan: 'Embrace the Pentagon AI Era' + closing ra"
-    },
-    {
-      "date": "2026-08-02T16:27:11Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Marketing landing page, live claimable ticker, red"
-    },
-    {
-      "date": "2026-08-02T16:04:28Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Fix PG Points showing 0: adaptive precision + clai"
-    },
-    {
-      "date": "2026-08-02T15:33:48Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Fix claim breaking My locks; PG Points naming; con"
-    },
-    {
-      "date": "2026-08-02T14:23:44Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Security self-review + M-1 hardening (ledger term "
-    },
-    {
-      "date": "2026-08-02T14:09:59Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "My locks: gold highlight card so positions stand o"
-    },
-    {
-      "date": "2026-08-02T14:05:19Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Copy: drop 'don't endorse buying' line, keep 'loya"
-    },
-    {
-      "date": "2026-08-02T04:02:50Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Gas note: registered members get initial gas free "
-    },
-    {
-      "date": "2026-08-02T03:54:42Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Frontend: claims.html + claiming section in gate t"
-    },
-    {
-      "date": "2026-08-02T03:27:24Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Frontend: rewards-vs-principal terms clarity, guid"
-    },
-    {
-      "date": "2026-08-02T02:40:50Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "Frontend: simplified bridge-style UX (gate, steppe"
-    },
-    {
-      "date": "2026-08-01T16:38:40Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "lockUpgrades(): owner can irreversibly forfeit upg"
-    },
-    {
-      "date": "2026-08-01T16:12:48Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake",
-      "message": "PC Commitment Rewards: UUPS contracts, tests (17/1"
-    },
-    {
-      "date": "2026-08-04T13:44:54Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Brand the app as GetPC 2 (matches the /getPC2/ pat"
-    },
-    {
-      "date": "2026-08-04T03:54:29Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Farewell flash on redeem, collapse completed locks"
-    },
-    {
-      "date": "2026-08-04T02:21:20Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Fix: redeem button stuck disabled — emergencyUnloc"
-    },
-    {
-      "date": "2026-08-03T16:35:42Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Add 'welcome' to the nav; CTA reads 'Start Your Pe"
-    },
-    {
-      "date": "2026-08-03T04:44:36Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Slogan: 'Embrace the Pentagon AI Era' + closing ra"
-    },
-    {
-      "date": "2026-08-02T16:27:08Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Marketing landing page, live claimable ticker, red"
-    },
-    {
-      "date": "2026-08-02T16:04:25Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Fix PG Points showing 0: adaptive precision + clai"
-    },
-    {
-      "date": "2026-08-02T15:33:45Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Fix claim breaking My locks; PG Points naming; con"
-    },
-    {
-      "date": "2026-08-02T14:09:56Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "My locks: gold highlight card so positions stand o"
-    },
-    {
-      "date": "2026-08-02T14:05:17Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Copy: drop 'don't endorse buying' line, keep 'loya"
-    },
-    {
-      "date": "2026-08-02T04:02:47Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Gas note: registered Pentagon Games members get in"
-    },
-    {
-      "date": "2026-08-02T03:54:40Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Add claims.html: claiming explained (weekly, PC-ch"
-    },
-    {
-      "date": "2026-08-02T03:27:21Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Terms clarity + guide landing + tranche preview\n\n-"
-    },
-    {
-      "date": "2026-08-02T02:40:47Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "Simplify UX to bridge pattern: gated terms, clean "
-    },
-    {
-      "date": "2026-08-01T16:37:41Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "pc-stake-frontend",
-      "message": "PC Commitment Rewards community frontend (preview)"
-    },
-    {
-      "date": "2026-08-04T13:44:52Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Brand the app as GetPC 2 (matches the /getPC2/ pat"
-    },
-    {
-      "date": "2026-08-04T13:27:17Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Move staking app to /getPC2/ under the bridge site"
-    },
-    {
-      "date": "2026-08-04T03:54:26Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Farewell flash on redeem, collapse completed locks"
-    },
-    {
-      "date": "2026-08-04T02:21:17Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Fix: redeem button stuck disabled — emergencyUnloc"
-    },
-    {
-      "date": "2026-08-03T16:35:35Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Add 'welcome' to the nav; CTA reads 'Start Your Pe"
-    },
-    {
-      "date": "2026-08-03T04:44:30Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Slogan: 'Embrace the Pentagon AI Era' + closing ra"
-    },
-    {
-      "date": "2026-08-02T16:27:06Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Marketing landing page, live claimable ticker, red"
-    },
-    {
-      "date": "2026-08-02T16:04:22Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Fix PG Points showing 0: adaptive precision + clai"
-    },
-    {
-      "date": "2026-08-02T15:33:42Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Fix claim breaking My locks; PG Points naming; con"
-    },
-    {
-      "date": "2026-08-02T14:09:54Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "My locks: gold highlight card so positions stand o"
-    },
-    {
-      "date": "2026-08-02T14:05:14Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Copy: drop 'don't endorse buying' line, keep 'loya"
-    },
-    {
-      "date": "2026-08-02T13:40:03Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Add $PC staking TEST app under /stake/ (unlisted, "
-    },
-    {
-      "date": "2026-08-01T13:50:19Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "PC payout tx links: open internal_txns tab (shows "
-    },
-    {
-      "date": "2026-08-01T13:27:18Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Live PC payout detection via Pages Function + show"
-    },
-    {
-      "date": "2026-08-01T06:48:18Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Resumable top-up: persist interrupted flow, offer "
-    },
-    {
-      "date": "2026-08-01T06:04:20Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Fix stepper hang: poll chain directly instead of t"
-    },
-    {
-      "date": "2026-08-01T05:30:54Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Restructure for Cloudflare Pages (public/ output d"
-    },
-    {
-      "date": "2026-08-01T05:26:20Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Post-lock status tracker: ETH confirmations + PC c"
-    },
-    {
-      "date": "2026-08-01T03:20:41Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Add browser-local History tab for recent top-ups\n\n"
-    },
-    {
-      "date": "2026-07-31T17:10:46Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Terms gate: scrollable TOS box (scroll-to-enable),"
-    },
-    {
-      "date": "2026-07-31T16:51:56Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Guided multi-step swap flow: one verified button p"
-    },
-    {
-      "date": "2026-07-31T15:23:40Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Add .assetsignore so .git and config files are not"
-    },
-    {
-      "date": "2026-07-31T15:16:45Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Add wrangler.toml for Cloudflare static-assets dep"
-    },
-    {
-      "date": "2026-07-31T15:04:34Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Point source link to blockchainsuperheroes org\n\nCo"
-    },
-    {
-      "date": "2026-07-31T14:39:41Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Aave-style open-source / community-built / non-cus"
-    },
-    {
-      "date": "2026-07-31T14:32:05Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "Add community-built + Cloudflare Pages disclaimer\n"
-    },
-    {
-      "date": "2026-07-31T14:24:21Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "bridge2-frontend",
-      "message": "bridge2 frontend: one-way PC top-up UI (deposit + "
-    },
-    {
-      "date": "2026-08-01T15:49:32Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Play ownership: resolve current owner (nft-data-ap"
-    },
-    {
-      "date": "2026-07-25T14:50:17Z",
+      "date": "2026-08-19T14:58:26Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Rental stats endpoint: GET /api/masters/rentals (o"
+      "repo": "ef-hunt-cinematics",
+      "message": "ef_bedrock_gen: fix S3 output URI (needs trailing "
     },
     {
-      "date": "2026-07-25T14:20:26Z",
+      "date": "2026-08-19T14:38:45Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Fix: character metadata 500 on on-chain tokenId (n"
+      "repo": "ef-hunt-cinematics",
+      "message": "ef_bedrock_gen: add --profile (named AWS profile) "
     },
     {
-      "date": "2026-07-25T12:44:09Z",
+      "date": "2026-08-18T16:02:22Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Masters active API: multi-renter aware (isActiveRe"
+      "repo": "ef-hunt-cinematics",
+      "message": "tools/generation: Bedrock video generator + AWS re"
     },
     {
-      "date": "2026-07-25T10:35:47Z",
+      "date": "2026-08-16T08:49:13Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Perf: Active Masters API 16s → ~1.5s (parallel ren"
+      "repo": "ef-hunt-cinematics",
+      "message": "website/: realism scroll-scrub prototype + build g"
     },
     {
-      "date": "2026-07-04T20:30:54Z",
+      "date": "2026-08-07T13:48:12Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Pets: chain indexer (owners + catch numbers) + mar"
+      "repo": "ef-hunt-cinematics",
+      "message": "Add FIRST_VIDEO.md — plain-English human onboardin"
     },
     {
-      "date": "2026-07-04T19:14:48Z",
+      "date": "2026-08-07T13:04:50Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Pets API: cache warmers + persisted event cursor +"
+      "repo": "ef-hunt-cinematics",
+      "message": "Per-folder ASSET REFERENCE for all 9 scenes + 11 b"
     },
     {
-      "date": "2026-07-03T23:34:35Z",
+      "date": "2026-07-28T14:07:05Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Pets API: pending check-in tracker + census now in"
+      "repo": "ef-hunt-cinematics",
+      "message": "Bait 05 + AR premise: experimental baited field (s"
     },
     {
-      "date": "2026-07-03T11:58:14Z",
+      "date": "2026-07-28T13:31:42Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Pets API: point metadata at PetNFT v2 (release-ref"
+      "repo": "ef-hunt-cinematics",
+      "message": "Bait 05: reframe hook — EXPLAIN why food goes stal"
     },
     {
-      "date": "2026-07-03T04:59:15Z",
+      "date": "2026-07-28T13:15:14Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Pets API: live population census + PetNFT/DNA meta"
+      "repo": "ef-hunt-cinematics",
+      "message": "Bait 05: fix to the AR game's REAL core loop (food"
     },
     {
-      "date": "2026-07-01T23:21:36Z",
+      "date": "2026-07-27T16:23:05Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Masters game API: compile under the repo's ES6 tsc"
+      "repo": "ef-hunt-cinematics",
+      "message": "Baits: prioritize by star + ease (starred first, s"
     },
     {
-      "date": "2026-06-28T05:17:05Z",
+      "date": "2026-07-27T16:03:56Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Merge pull request #2 from blockchainsuperheroes/m"
+      "repo": "ef-hunt-cinematics",
+      "message": "Baits: split into per-category folders + 5 new gen"
     },
     {
-      "date": "2026-06-28T03:36:57Z",
+      "date": "2026-07-27T15:51:29Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Add GET /api/masters/market — cached on-chain stat"
+      "repo": "ef-hunt-cinematics",
+      "message": "Marketing: viral short-commercial scripts (6 genre"
     },
     {
-      "date": "2026-06-21T01:16:05Z",
+      "date": "2026-07-27T15:24:50Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Masters active endpoint returns game Master_ID\n\n/a"
+      "repo": "ef-hunt-cinematics",
+      "message": "Assets: full self-sufficient library + locked cast"
     },
     {
-      "date": "2026-06-19T08:53:02Z",
+      "date": "2026-07-27T14:53:22Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "games-etherfantasy-backend",
-      "message": "Add Masters game API: helper pool + KO/revive (add"
-    },
-    {
-      "date": "2026-06-05T14:55:51Z",
-      "author": "Vansh dhir",
-      "login": "Vanshdhir",
-      "repo": "games-etherfantasy-backend",
-      "message": "Ct reward distribution fix"
-    },
-    {
-      "date": "2026-05-23T06:33:36Z",
-      "author": "Vansh dhir",
-      "login": "Vanshdhir",
-      "repo": "games-etherfantasy-backend",
-      "message": "update reward distribution logic"
-    },
-    {
-      "date": "2026-05-22T05:42:31Z",
-      "author": "Vansh dhir",
-      "login": "Vanshdhir",
-      "repo": "games-etherfantasy-backend",
-      "message": "update check ko route"
-    },
-    {
-      "date": "2026-04-29T15:28:54Z",
-      "author": "Vansh",
-      "login": null,
-      "repo": "games-etherfantasy-backend",
-      "message": "check_ct_wallet response update"
-    },
-    {
-      "date": "2026-04-29T09:32:04Z",
-      "author": "Vansh",
-      "login": null,
-      "repo": "games-etherfantasy-backend",
-      "message": "Update nftowned api route response + checkctwallet"
+      "repo": "ef-hunt-cinematics",
+      "message": "README: human landing page (10-min onboarding + co"
     },
     {
-      "date": "2026-04-28T16:57:31Z",
-      "author": "Vansh",
-      "login": null,
-      "repo": "games-etherfantasy-backend",
-      "message": "Update backend"
-    },
-    {
-      "date": "2026-04-28T16:56:57Z",
-      "author": "Vansh",
-      "login": null,
-      "repo": "games-etherfantasy-backend",
-      "message": "Update backend"
-    },
-    {
-      "date": "2026-04-14T00:20:53Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "games-etherfantasy-backend",
-      "message": "Initial commit from production server"
-    },
-    {
-      "date": "2026-07-31T14:59:39Z",
+      "date": "2026-07-27T14:40:01Z",
       "author": "nftprof",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Wallet-only auth rewrite + operator management; fa"
-    },
-    {
-      "date": "2026-06-02T00:13:00Z",
-      "author": "root",
-      "login": null,
-      "repo": "cli-pentagon-config-fe",
-      "message": "Update VIP faucet signer address to 0xaEeb575E"
-    },
-    {
-      "date": "2026-06-01T23:51:19Z",
-      "author": "root",
-      "login": null,
-      "repo": "cli-pentagon-config-fe",
-      "message": "Add 4 VIP faucet funding components as faucet wall"
-    },
-    {
-      "date": "2026-06-01T22:46:23Z",
-      "author": "root",
-      "login": null,
-      "repo": "cli-pentagon-config-fe",
-      "message": "Revert \"Add 4 critical funding components section "
-    },
-    {
-      "date": "2026-06-01T22:35:10Z",
-      "author": "Ubuntu",
-      "login": null,
-      "repo": "cli-pentagon-config-fe",
-      "message": "Add 4 critical funding components section to PC fa"
-    },
-    {
-      "date": "2026-05-31T22:44:56Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Replace V1 CampaignReward with V2 (0x9A07): contra"
-    },
-    {
-      "date": "2026-05-31T21:30:55Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Rebuild Stripe page with full account details, SKU"
-    },
-    {
-      "date": "2026-05-31T20:13:00Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Rename to User Gas Drop (Email Verify / EOA Add)"
-    },
-    {
-      "date": "2026-05-31T20:08:11Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Remove deprecated testnet faucet, update Email Ver"
-    },
-    {
-      "date": "2026-05-31T20:02:13Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Rename Deployer to Agent Deployer & Airdrop - expl"
-    },
-    {
-      "date": "2026-05-31T19:57:49Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Update Payment Minter (0x9A7c, 91 PC, Stripe rewar"
-    },
-    {
-      "date": "2026-05-31T19:51:07Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Split Green Day into Contract (PC tokens) + Keeper"
-    },
-    {
-      "date": "2026-05-31T19:42:00Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Fix status dot: check ERC-20 and ETH balances too,"
-    },
-    {
-      "date": "2026-05-31T19:35:45Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Fix Green Day ETH RPC (ankr->mevblocker), rename M"
-    },
-    {
-      "date": "2026-05-31T18:56:09Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Add last activity column - fetches latest outgoing"
-    },
-    {
-      "date": "2026-05-31T18:02:39Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Add PC Faucet page - all 9 faucet/gas wallets with"
-    },
-    {
-      "date": "2026-05-20T04:57:09Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "sync: pull server app-keys changes + monthly volum"
-    },
-    {
-      "date": "2026-05-20T04:32:21Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: interactive SKU management on crypto payment"
-    },
-    {
-      "date": "2026-05-07T22:17:56Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "fix: suppress indexedDB ReferenceError in SSR for "
-    },
-    {
-      "date": "2026-05-07T22:07:10Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: expand crypto payments dashboard with 21 SKU"
-    },
-    {
-      "date": "2026-05-04T01:19:08Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add User Management page with on-chain role "
-    },
-    {
-      "date": "2026-05-04T01:10:30Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add Payments section (Crypto Processor + Cre"
-    },
-    {
-      "date": "2026-04-29T17:29:49Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "fix: type errors in rpc-cors action returns"
-    },
-    {
-      "date": "2026-04-29T17:21:21Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add RPC CORS Whitelist management page\n\n- Ne"
-    },
-    {
-      "date": "2026-04-29T03:48:14Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add Frontend URL column to App Keys table\n\nS"
-    },
-    {
-      "date": "2026-04-29T02:54:35Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add App Key Management page\n\n- New dashboard"
-    },
-    {
-      "date": "2026-04-17T08:20:09Z",
-      "author": "Idon Liu",
       "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "docs: update deploy/withdraw pages with accurate Z"
+      "repo": "ef-hunt-cinematics",
+      "message": "Cinematics: START_HERE + WORLD_BRIEF/MASTER_PLAN +"
     },
     {
-      "date": "2026-04-15T05:16:35Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add direct link to on-chain write contract f"
-    },
-    {
-      "date": "2026-04-12T00:30:30Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add on-chain contract status to deploy and w"
-    },
-    {
-      "date": "2026-04-11T21:00:32Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: restructure nav + add detailed endpoint tabl"
-    },
-    {
-      "date": "2026-04-11T20:56:06Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "fix: lazy-init publicClient to fix edge runtime bu"
-    },
-    {
-      "date": "2026-04-11T20:49:57Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "docs: add detailed descriptions + API info to all "
-    },
-    {
-      "date": "2026-04-07T01:37:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "refactor: reorganize nav - flat menu with Bridge s"
-    },
-    {
-      "date": "2026-04-07T01:30:26Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "cli-pentagon-config-fe",
-      "message": "feat: add RPC blacklist - block addresses from acc"
-    },
-    {
-      "date": "2025-12-22T11:16:40Z",
-      "author": "Dipak Italiya",
-      "login": "dipakitaliya",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Merge pull request #8 from blockchainsuperheroes/f"
-    },
-    {
-      "date": "2025-12-22T11:15:20Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "add alowed cors"
-    },
-    {
-      "date": "2025-12-22T10:48:38Z",
-      "author": "Dipak Italiya",
-      "login": "dipakitaliya",
-      "repo": "cli-pentagon-config-fe",
-      "message": "Merge pull request #7 from blockchainsuperheroes/f"
-    },
-    {
-      "date": "2025-12-22T03:16:09Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "upgrade react 2 shell"
-    },
-    {
-      "date": "2025-12-19T04:57:47Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "script add user"
-    },
-    {
-      "date": "2025-08-29T06:54:05Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "update rainbowkit"
-    },
-    {
-      "date": "2025-08-29T04:13:55Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "fix approve by address"
-    },
-    {
-      "date": "2025-08-29T01:06:01Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "fix build"
-    },
-    {
-      "date": "2025-08-27T06:43:22Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "cli-pentagon-config-fe",
-      "message": "fix build"
-    },
-    {
-      "date": "2025-08-27T05:59:57Z",
-      "author": "Chase Nguyen",
-      "login": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "message": "add metamask login (#6)\n\nCo-authored-by: ntchungse"
-    },
-    {
-      "date": "2026-07-30T09:12:34Z",
-      "author": "Claude",
-      "login": "claude",
-      "repo": "AnimeChar",
-      "message": "Reword NPC economy UI: redemption/swap language in"
-    },
-    {
-      "date": "2026-07-02T16:16:14Z",
-      "author": "Claude",
-      "login": "claude",
-      "repo": "AnimeChar",
-      "message": "Add agent card baseline + NFT-driven VRM character"
-    },
-    {
-      "date": "2026-05-14T03:53:21Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: addBid approves bid+2.5% fee, balance checks "
-    },
-    {
-      "date": "2026-05-14T01:28:48Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "products-pfpvault-frontend",
-      "message": "feat: check bid eligibility on load, show Fetch Hi"
-    },
-    {
-      "date": "2026-05-14T01:25:40Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "products-pfpvault-frontend",
-      "message": "feat: lazy bid validation - check on sell, Find Va"
-    },
-    {
-      "date": "2026-05-14T01:11:43Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: pre-check bidder WPC balance before acceptBid"
-    },
-    {
-      "date": "2026-05-14T00:24:20Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: sell now guards, PC gas error msg, price pane"
-    },
-    {
-      "date": "2026-05-04T18:24:18Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "products-pfpvault-frontend",
-      "message": "feat: major marketplace improvements (Apr 22 - May"
-    },
-    {
-      "date": "2026-04-22T13:44:07Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: replace stale DB soulbound check with on-chai"
-    },
-    {
-      "date": "2026-04-21T04:32:25Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-frontend",
-      "message": "feat: soulbound guard on NFT listing\n\n- Checks isU"
-    },
-    {
-      "date": "2026-04-18T02:31:57Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: BigInt fee calc, ETH->PC error msg, collectio"
-    },
-    {
-      "date": "2026-04-17T12:07:06Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: add marketplace fee to all buy paths (collect"
-    },
-    {
-      "date": "2025-12-29T10:55:32Z",
-      "author": "Shaheer Malik",
-      "login": "ShaheerMalik-ideofuzion",
-      "repo": "products-pfpvault-frontend",
-      "message": "Merged in security-vulnerabilities (pull request #"
-    },
-    {
-      "date": "2025-12-29T10:52:13Z",
-      "author": "ShaheerMalik2567",
-      "login": "ShaheerMalik2567",
-      "repo": "products-pfpvault-frontend",
-      "message": "update: react & react-dom version updated"
-    },
-    {
-      "date": "2025-12-26T12:16:49Z",
-      "author": "Shaheer Malik",
-      "login": "ShaheerMalik-ideofuzion",
-      "repo": "products-pfpvault-frontend",
-      "message": "Merged in rabby-wallet (pull request #119)\n\nfeat: "
-    },
-    {
-      "date": "2025-12-26T12:15:27Z",
-      "author": "ShaheerMalik2567",
-      "login": "ShaheerMalik2567",
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: minor code refactored"
-    },
-    {
-      "date": "2025-12-26T12:05:07Z",
-      "author": "ShaheerMalik2567",
-      "login": "ShaheerMalik2567",
-      "repo": "products-pfpvault-frontend",
-      "message": "feat: rabby wallet connection"
-    },
-    {
-      "date": "2025-10-06T06:54:52Z",
-      "author": "ShaheerMalik2567",
-      "login": "ShaheerMalik2567",
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: default chain updated, removed testent"
-    },
-    {
-      "date": "2025-09-30T07:34:51Z",
-      "author": "Shaheer Malik",
-      "login": "ShaheerMalik-ideofuzion",
-      "repo": "products-pfpvault-frontend",
-      "message": "Merged in testnet-removed (pull request #118)\n\nfix"
-    },
-    {
-      "date": "2025-09-30T07:30:10Z",
-      "author": "ShaheerMalik2567",
-      "login": "ShaheerMalik2567",
-      "repo": "products-pfpvault-frontend",
-      "message": "fix: removed pen testnet, updated header text"
-    },
-    {
-      "date": "2026-05-14T03:55:33Z",
-      "author": "root",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "fix: bid validation includes 2.5% marketplace fee"
-    },
-    {
-      "date": "2026-05-14T01:27:15Z",
-      "author": "root",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "feat: lazy bid validation - ?validate=true param f"
-    },
-    {
-      "date": "2026-05-14T01:21:18Z",
-      "author": "root",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "fix: validate bidder WPC balance on-chain in getTo"
-    },
-    {
-      "date": "2026-04-29T07:38:55Z",
-      "author": "ateeqrehmani",
-      "login": "ateeqrehmani",
-      "repo": "products-pfpvault-backend",
-      "message": "Merge pull request #5 from blockchainsuperheroes/a"
-    },
-    {
-      "date": "2026-04-29T07:26:26Z",
-      "author": "ateeq",
-      "login": "ateeqrehmani",
-      "repo": "products-pfpvault-backend",
-      "message": "removed(log) result log removed from update.collec"
-    },
-    {
-      "date": "2026-04-24T17:45:00Z",
-      "author": "ateeqrehmani",
-      "login": "ateeqrehmani",
-      "repo": "products-pfpvault-backend",
-      "message": "Merge pull request #4 from blockchainsuperheroes/a"
-    },
-    {
-      "date": "2026-04-24T17:43:44Z",
-      "author": "ateeq",
-      "login": "ateeqrehmani",
-      "repo": "products-pfpvault-backend",
-      "message": "fix(db): resync contracts id sequence to prevent d"
-    },
-    {
-      "date": "2026-04-21T04:31:32Z",
-      "author": "root",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "feat: soulbound check endpoint + transfer listener"
-    },
-    {
-      "date": "2026-04-20T09:58:48Z",
-      "author": "ateeqrehmani",
-      "login": "ateeqrehmani",
-      "repo": "products-pfpvault-backend",
-      "message": "Merge pull request #3 from blockchainsuperheroes/a"
-    },
-    {
-      "date": "2026-04-16T07:28:02Z",
-      "author": "ateeq",
-      "login": "ateeqrehmani",
-      "repo": "products-pfpvault-backend",
-      "message": "feat: implement admin APIs (auth, admins, chains, "
-    },
-    {
-      "date": "2026-04-06T01:25:04Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "fix: correct volume calculation with DB indexes (e"
-    },
-    {
-      "date": "2026-04-05T03:48:58Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "fix: correct volume calculation - query nft_histor"
-    },
-    {
-      "date": "2026-04-05T03:06:58Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "fix: round distinctOwnersPercentageValue to 2 deci"
-    },
-    {
-      "date": "2026-04-05T02:45:40Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "fix: round portfolio value calculations to 2 decim"
-    },
-    {
-      "date": "2026-04-05T02:15:15Z",
-      "author": "Cerise01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "perf: optimize collection queries (N+1 → JOIN) + r"
-    },
-    {
-      "date": "2026-02-20T01:48:31Z",
+      "date": "2026-07-27T14:07:07Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "products-pfpvault-backend",
-      "message": "Update README: mark as EXTERNAL service"
+      "repo": "ef-hunt-cinematics",
+      "message": "Canon: source docs + character map + world geograp"
     },
     {
-      "date": "2026-02-20T01:20:26Z",
+      "date": "2026-07-27T13:04:14Z",
       "author": "nftprof",
       "login": "nftprof",
-      "repo": "products-pfpvault-backend",
-      "message": "Add GitHub Actions health check section"
-    },
-    {
-      "date": "2026-02-20T00:06:34Z",
-      "author": "ILMBPClawd01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "Remove generic link, add deployment section placeh"
-    },
-    {
-      "date": "2026-02-20T00:05:09Z",
-      "author": "ILMBPClawd01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "Fix links to absolute URLs"
-    },
-    {
-      "date": "2026-02-19T23:59:13Z",
-      "author": "ILMBPClawd01",
-      "login": null,
-      "repo": "products-pfpvault-backend",
-      "message": "Update README with TLDR"
-    },
-    {
-      "date": "2026-01-29T09:03:14Z",
-      "author": "ShoaibIdeo",
-      "login": "ShoaibIdeo",
-      "repo": "products-pfpvault-backend",
-      "message": "Merge pull request #2 from blockchainsuperheroes/d"
-    },
-    {
-      "date": "2026-01-29T08:56:46Z",
-      "author": "Shoaib Ullah",
-      "login": "ShoaibIdeo",
-      "repo": "products-pfpvault-backend",
-      "message": "fix mintnft"
-    },
-    {
-      "date": "2026-01-26T08:00:34Z",
-      "author": "ShoaibIdeo",
-      "login": "ShoaibIdeo",
-      "repo": "products-pfpvault-backend",
-      "message": "Merge pull request #1 from blockchainsuperheroes/d"
+      "repo": "ef-hunt-cinematics",
+      "message": "EF Hunt cinematics: per-scene brief repo (9 scenes"
     },
     {
       "date": "2026-07-27T13:39:52Z",
@@ -10464,6 +10520,678 @@
       "message": "Add smart contracts (Mohib to update with full Sol"
     },
     {
+      "date": "2026-08-19T02:48:35Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Masters KO/revive: per-(master,wallet) for 1-owner"
+    },
+    {
+      "date": "2026-08-01T15:49:32Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Play ownership: resolve current owner (nft-data-ap"
+    },
+    {
+      "date": "2026-07-25T14:50:17Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Rental stats endpoint: GET /api/masters/rentals (o"
+    },
+    {
+      "date": "2026-07-25T14:20:26Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Fix: character metadata 500 on on-chain tokenId (n"
+    },
+    {
+      "date": "2026-07-25T12:44:09Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Masters active API: multi-renter aware (isActiveRe"
+    },
+    {
+      "date": "2026-07-25T10:35:47Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Perf: Active Masters API 16s → ~1.5s (parallel ren"
+    },
+    {
+      "date": "2026-07-04T20:30:54Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Pets: chain indexer (owners + catch numbers) + mar"
+    },
+    {
+      "date": "2026-07-04T19:14:48Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Pets API: cache warmers + persisted event cursor +"
+    },
+    {
+      "date": "2026-07-03T23:34:35Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Pets API: pending check-in tracker + census now in"
+    },
+    {
+      "date": "2026-07-03T11:58:14Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Pets API: point metadata at PetNFT v2 (release-ref"
+    },
+    {
+      "date": "2026-07-03T04:59:15Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Pets API: live population census + PetNFT/DNA meta"
+    },
+    {
+      "date": "2026-07-01T23:21:36Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Masters game API: compile under the repo's ES6 tsc"
+    },
+    {
+      "date": "2026-06-28T05:17:05Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Merge pull request #2 from blockchainsuperheroes/m"
+    },
+    {
+      "date": "2026-06-28T03:36:57Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Add GET /api/masters/market — cached on-chain stat"
+    },
+    {
+      "date": "2026-06-21T01:16:05Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Masters active endpoint returns game Master_ID\n\n/a"
+    },
+    {
+      "date": "2026-06-19T08:53:02Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "games-etherfantasy-backend",
+      "message": "Add Masters game API: helper pool + KO/revive (add"
+    },
+    {
+      "date": "2026-06-05T14:55:51Z",
+      "author": "Vansh dhir",
+      "login": "Vanshdhir",
+      "repo": "games-etherfantasy-backend",
+      "message": "Ct reward distribution fix"
+    },
+    {
+      "date": "2026-05-23T06:33:36Z",
+      "author": "Vansh dhir",
+      "login": "Vanshdhir",
+      "repo": "games-etherfantasy-backend",
+      "message": "update reward distribution logic"
+    },
+    {
+      "date": "2026-05-22T05:42:31Z",
+      "author": "Vansh dhir",
+      "login": "Vanshdhir",
+      "repo": "games-etherfantasy-backend",
+      "message": "update check ko route"
+    },
+    {
+      "date": "2026-04-29T15:28:54Z",
+      "author": "Vansh",
+      "login": null,
+      "repo": "games-etherfantasy-backend",
+      "message": "check_ct_wallet response update"
+    },
+    {
+      "date": "2026-04-29T09:32:04Z",
+      "author": "Vansh",
+      "login": null,
+      "repo": "games-etherfantasy-backend",
+      "message": "Update nftowned api route response + checkctwallet"
+    },
+    {
+      "date": "2026-04-28T16:57:31Z",
+      "author": "Vansh",
+      "login": null,
+      "repo": "games-etherfantasy-backend",
+      "message": "Update backend"
+    },
+    {
+      "date": "2026-04-28T16:56:57Z",
+      "author": "Vansh",
+      "login": null,
+      "repo": "games-etherfantasy-backend",
+      "message": "Update backend"
+    },
+    {
+      "date": "2026-04-14T00:20:53Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "games-etherfantasy-backend",
+      "message": "Initial commit from production server"
+    },
+    {
+      "date": "2026-08-17T06:46:30Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-08-17"
+    },
+    {
+      "date": "2026-08-10T07:23:20Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-08-10"
+    },
+    {
+      "date": "2026-07-27T09:42:28Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-07-27"
+    },
+    {
+      "date": "2026-07-20T08:48:50Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-07-20"
+    },
+    {
+      "date": "2026-07-13T08:56:15Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-07-13"
+    },
+    {
+      "date": "2026-07-06T07:37:28Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-07-06"
+    },
+    {
+      "date": "2026-06-29T07:50:09Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-06-29"
+    },
+    {
+      "date": "2026-06-22T08:03:56Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-06-22"
+    },
+    {
+      "date": "2026-06-15T07:59:07Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-06-15"
+    },
+    {
+      "date": "2026-06-13T16:42:52Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-06-13"
+    },
+    {
+      "date": "2026-06-13T16:34:07Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "infra-github-activity",
+      "message": "Fix CI report regeneration: restore full report.js"
+    },
+    {
+      "date": "2026-03-05T00:36:05Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-github-activity",
+      "message": "Update reports 2026-03-05"
+    },
+    {
+      "date": "2026-03-05T00:34:59Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "infra-github-activity",
+      "message": "Use GH_PAT env var for token in report.js"
+    },
+    {
+      "date": "2026-03-05T00:33:55Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "infra-github-activity",
+      "message": "Add weekly report workflow for activity tracking"
+    },
+    {
+      "date": "2026-02-06T03:09:35Z",
+      "author": "Emiko-Pentagon",
+      "login": "nftprof",
+      "repo": "infra-github-activity",
+      "message": "Create README.md"
+    },
+    {
+      "date": "2025-11-24T09:08:14Z",
+      "author": "dipakitaliya",
+      "login": "dipakitaliya",
+      "repo": "infra-github-activity",
+      "message": "node script to get Contribution Report of  organiz"
+    },
+    {
+      "date": "2026-08-17T06:46:27Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-08-17"
+    },
+    {
+      "date": "2026-08-10T07:23:18Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-08-10"
+    },
+    {
+      "date": "2026-07-27T09:42:27Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-07-27"
+    },
+    {
+      "date": "2026-07-20T08:48:49Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-07-20"
+    },
+    {
+      "date": "2026-07-13T08:56:13Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-07-13"
+    },
+    {
+      "date": "2026-07-06T07:37:27Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-07-06"
+    },
+    {
+      "date": "2026-06-29T07:50:07Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-06-29"
+    },
+    {
+      "date": "2026-06-22T08:03:54Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-06-22"
+    },
+    {
+      "date": "2026-06-15T07:59:06Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-06-15"
+    },
+    {
+      "date": "2026-06-13T16:42:51Z",
+      "author": "github-actions[bot]",
+      "login": "github-actions[bot]",
+      "repo": "infra-activity-dashboard",
+      "message": "Update contribution report 2026-06-13"
+    },
+    {
+      "date": "2026-02-22T05:33:55Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "infra-activity-dashboard",
+      "message": "Add contribution report mirror"
+    },
+    {
+      "date": "2026-08-16T14:37:39Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "mining-v2-backend",
+      "message": "Live sync 2026-08-16: community feedback fixes (ho"
+    },
+    {
+      "date": "2026-06-27T22:27:42Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "mining-v2-backend",
+      "message": "Sync production mining-v2-backend (secrets redacte"
+    },
+    {
+      "date": "2026-07-30T09:12:34Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "AnimeChar",
+      "message": "Reword NPC economy UI: redemption/swap language in"
+    },
+    {
+      "date": "2026-07-02T16:16:14Z",
+      "author": "Claude",
+      "login": "claude",
+      "repo": "AnimeChar",
+      "message": "Add agent card baseline + NFT-driven VRM character"
+    },
+    {
+      "date": "2026-05-14T03:53:21Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: addBid approves bid+2.5% fee, balance checks "
+    },
+    {
+      "date": "2026-05-14T01:28:48Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "products-pfpvault-frontend",
+      "message": "feat: check bid eligibility on load, show Fetch Hi"
+    },
+    {
+      "date": "2026-05-14T01:25:40Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "products-pfpvault-frontend",
+      "message": "feat: lazy bid validation - check on sell, Find Va"
+    },
+    {
+      "date": "2026-05-14T01:11:43Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: pre-check bidder WPC balance before acceptBid"
+    },
+    {
+      "date": "2026-05-14T00:24:20Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: sell now guards, PC gas error msg, price pane"
+    },
+    {
+      "date": "2026-05-04T18:24:18Z",
+      "author": "Idon Liu",
+      "login": "nftprof",
+      "repo": "products-pfpvault-frontend",
+      "message": "feat: major marketplace improvements (Apr 22 - May"
+    },
+    {
+      "date": "2026-04-22T13:44:07Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: replace stale DB soulbound check with on-chai"
+    },
+    {
+      "date": "2026-04-21T04:32:25Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-frontend",
+      "message": "feat: soulbound guard on NFT listing\n\n- Checks isU"
+    },
+    {
+      "date": "2026-04-18T02:31:57Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: BigInt fee calc, ETH->PC error msg, collectio"
+    },
+    {
+      "date": "2026-04-17T12:07:06Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: add marketplace fee to all buy paths (collect"
+    },
+    {
+      "date": "2025-12-29T10:55:32Z",
+      "author": "Shaheer Malik",
+      "login": "ShaheerMalik-ideofuzion",
+      "repo": "products-pfpvault-frontend",
+      "message": "Merged in security-vulnerabilities (pull request #"
+    },
+    {
+      "date": "2025-12-29T10:52:13Z",
+      "author": "ShaheerMalik2567",
+      "login": "ShaheerMalik2567",
+      "repo": "products-pfpvault-frontend",
+      "message": "update: react & react-dom version updated"
+    },
+    {
+      "date": "2025-12-26T12:16:49Z",
+      "author": "Shaheer Malik",
+      "login": "ShaheerMalik-ideofuzion",
+      "repo": "products-pfpvault-frontend",
+      "message": "Merged in rabby-wallet (pull request #119)\n\nfeat: "
+    },
+    {
+      "date": "2025-12-26T12:15:27Z",
+      "author": "ShaheerMalik2567",
+      "login": "ShaheerMalik2567",
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: minor code refactored"
+    },
+    {
+      "date": "2025-12-26T12:05:07Z",
+      "author": "ShaheerMalik2567",
+      "login": "ShaheerMalik2567",
+      "repo": "products-pfpvault-frontend",
+      "message": "feat: rabby wallet connection"
+    },
+    {
+      "date": "2025-10-06T06:54:52Z",
+      "author": "ShaheerMalik2567",
+      "login": "ShaheerMalik2567",
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: default chain updated, removed testent"
+    },
+    {
+      "date": "2025-09-30T07:34:51Z",
+      "author": "Shaheer Malik",
+      "login": "ShaheerMalik-ideofuzion",
+      "repo": "products-pfpvault-frontend",
+      "message": "Merged in testnet-removed (pull request #118)\n\nfix"
+    },
+    {
+      "date": "2025-09-30T07:30:10Z",
+      "author": "ShaheerMalik2567",
+      "login": "ShaheerMalik2567",
+      "repo": "products-pfpvault-frontend",
+      "message": "fix: removed pen testnet, updated header text"
+    },
+    {
+      "date": "2026-05-14T03:55:33Z",
+      "author": "root",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "fix: bid validation includes 2.5% marketplace fee"
+    },
+    {
+      "date": "2026-05-14T01:27:15Z",
+      "author": "root",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "feat: lazy bid validation - ?validate=true param f"
+    },
+    {
+      "date": "2026-05-14T01:21:18Z",
+      "author": "root",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "fix: validate bidder WPC balance on-chain in getTo"
+    },
+    {
+      "date": "2026-04-29T07:38:55Z",
+      "author": "ateeqrehmani",
+      "login": "ateeqrehmani",
+      "repo": "products-pfpvault-backend",
+      "message": "Merge pull request #5 from blockchainsuperheroes/a"
+    },
+    {
+      "date": "2026-04-29T07:26:26Z",
+      "author": "ateeq",
+      "login": "ateeqrehmani",
+      "repo": "products-pfpvault-backend",
+      "message": "removed(log) result log removed from update.collec"
+    },
+    {
+      "date": "2026-04-24T17:45:00Z",
+      "author": "ateeqrehmani",
+      "login": "ateeqrehmani",
+      "repo": "products-pfpvault-backend",
+      "message": "Merge pull request #4 from blockchainsuperheroes/a"
+    },
+    {
+      "date": "2026-04-24T17:43:44Z",
+      "author": "ateeq",
+      "login": "ateeqrehmani",
+      "repo": "products-pfpvault-backend",
+      "message": "fix(db): resync contracts id sequence to prevent d"
+    },
+    {
+      "date": "2026-04-21T04:31:32Z",
+      "author": "root",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "feat: soulbound check endpoint + transfer listener"
+    },
+    {
+      "date": "2026-04-20T09:58:48Z",
+      "author": "ateeqrehmani",
+      "login": "ateeqrehmani",
+      "repo": "products-pfpvault-backend",
+      "message": "Merge pull request #3 from blockchainsuperheroes/a"
+    },
+    {
+      "date": "2026-04-16T07:28:02Z",
+      "author": "ateeq",
+      "login": "ateeqrehmani",
+      "repo": "products-pfpvault-backend",
+      "message": "feat: implement admin APIs (auth, admins, chains, "
+    },
+    {
+      "date": "2026-04-06T01:25:04Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "fix: correct volume calculation with DB indexes (e"
+    },
+    {
+      "date": "2026-04-05T03:48:58Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "fix: correct volume calculation - query nft_histor"
+    },
+    {
+      "date": "2026-04-05T03:06:58Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "fix: round distinctOwnersPercentageValue to 2 deci"
+    },
+    {
+      "date": "2026-04-05T02:45:40Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "fix: round portfolio value calculations to 2 decim"
+    },
+    {
+      "date": "2026-04-05T02:15:15Z",
+      "author": "Cerise01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "perf: optimize collection queries (N+1 → JOIN) + r"
+    },
+    {
+      "date": "2026-02-20T01:48:31Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "products-pfpvault-backend",
+      "message": "Update README: mark as EXTERNAL service"
+    },
+    {
+      "date": "2026-02-20T01:20:26Z",
+      "author": "nftprof",
+      "login": "nftprof",
+      "repo": "products-pfpvault-backend",
+      "message": "Add GitHub Actions health check section"
+    },
+    {
+      "date": "2026-02-20T00:06:34Z",
+      "author": "ILMBPClawd01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "Remove generic link, add deployment section placeh"
+    },
+    {
+      "date": "2026-02-20T00:05:09Z",
+      "author": "ILMBPClawd01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "Fix links to absolute URLs"
+    },
+    {
+      "date": "2026-02-19T23:59:13Z",
+      "author": "ILMBPClawd01",
+      "login": null,
+      "repo": "products-pfpvault-backend",
+      "message": "Update README with TLDR"
+    },
+    {
+      "date": "2026-01-29T09:03:14Z",
+      "author": "ShoaibIdeo",
+      "login": "ShoaibIdeo",
+      "repo": "products-pfpvault-backend",
+      "message": "Merge pull request #2 from blockchainsuperheroes/d"
+    },
+    {
+      "date": "2026-01-29T08:56:46Z",
+      "author": "Shoaib Ullah",
+      "login": "ShoaibIdeo",
+      "repo": "products-pfpvault-backend",
+      "message": "fix mintnft"
+    },
+    {
+      "date": "2026-01-26T08:00:34Z",
+      "author": "ShoaibIdeo",
+      "login": "ShoaibIdeo",
+      "repo": "products-pfpvault-backend",
+      "message": "Merge pull request #1 from blockchainsuperheroes/d"
+    },
+    {
       "date": "2026-07-21T06:13:00Z",
       "author": "nftprof",
       "login": "nftprof",
@@ -10744,354 +11472,11 @@
       "message": "nft-data-api: initial import (read API for nft-dat"
     },
     {
-      "date": "2026-07-13T06:23:51Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fix: BigInt block-number arithmetic in loadPublic "
-    },
-    {
-      "date": "2026-07-13T05:59:31Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: feed self-recovery — manual retry, last-good-r"
-    },
-    {
-      "date": "2026-07-13T05:48:56Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: surface RPC health — show picked endpoint + re"
-    },
-    {
-      "date": "2026-07-13T04:52:10Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: cache-bust app.js load to force fresh fetch af"
-    },
-    {
-      "date": "2026-07-13T00:00:47Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: fix Activity/Execution History feed — prepend "
-    },
-    {
-      "date": "2026-06-27T03:01:42Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: role-first layout — each role section lists ev"
-    },
-    {
-      "date": "2026-06-27T02:58:31Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: split strategy panel into dedicated Keeper Str"
-    },
-    {
-      "date": "2026-06-27T02:55:55Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: role-scoped strategy/maintenance panel — show "
-    },
-    {
-      "date": "2026-06-16T06:54:05Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: Portfolio History tab — NAV+per-pool+spot SVG "
-    },
-    {
-      "date": "2026-06-16T06:52:09Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "keeper: breakout/rollDown/collapse watcher + portf"
-    },
-    {
-      "date": "2026-06-10T06:30:08Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "audit: TWAP 30s window is fine for deep WETH/USDC "
-    },
-    {
-      "date": "2026-06-10T06:29:26Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "docs: point SESSION-RECOVERY.md to CATCHUP.md as s"
-    },
-    {
-      "date": "2026-06-10T06:25:06Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "keeper: add allocate-vs-topUp auto-branch; add CAT"
-    },
-    {
-      "date": "2026-06-10T06:11:01Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "keeper: implement auto-topup on deposit detection "
-    },
-    {
-      "date": "2026-06-10T05:00:22Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "deploy: v5 ETHUSDCThreePoolVault 0xb861BFf5 (adds "
-    },
-    {
-      "date": "2026-06-10T04:49:57Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "feat(fe): both-layer fees, idle balances, Top Up U"
-    },
-    {
-      "date": "2026-06-10T04:49:00Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "feat(contract): topUpPools() — deploy idle reserve"
-    },
-    {
-      "date": "2026-06-10T04:37:11Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "docs(fe): clarify LP Fees = both legs (WETH leg au"
-    },
-    {
-      "date": "2026-06-10T04:21:08Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fix(fe): wire instant setSpendConfig + clearer HWM"
-    },
-    {
-      "date": "2026-06-10T04:14:27Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "feat(fe): Execution History tab — full keeper/gove"
-    },
-    {
-      "date": "2026-06-10T04:10:38Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "feat(fe): Role Guide page — per-role usage, emerge"
-    },
-    {
-      "date": "2026-06-10T03:53:43Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fix(fe): spot price math inverted in spotFromSlot0"
-    },
-    {
-      "date": "2026-06-10T03:48:14Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "feat(fe): 3-pool dashboard for ETHUSDCThreePoolVau"
-    },
-    {
-      "date": "2026-06-10T03:41:24Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fix: shrink ThreePoolVault under EIP-170 + deploy "
-    },
-    {
-      "date": "2026-06-10T03:09:53Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "feat: ETHUSDCThreePoolVault — 3-position overlappi"
-    },
-    {
-      "date": "2026-06-10T00:17:01Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "fe: relabel HWM->High Watermark, Spend Buffer->LP "
-    },
-    {
-      "date": "2026-06-09T23:16:19Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "v3: owner set to Safe 0xF60f (not deployer EOA). O"
-    },
-    {
-      "date": "2026-06-09T23:11:11Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "v2 SHIPPED: deployed 0x95381cB29D7072902b1d543A0A6"
-    },
-    {
-      "date": "2026-06-09T23:09:13Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "v2: (1) withdraw dest lockdown to owner|TREASURY ("
-    },
-    {
-      "date": "2026-06-09T22:58:25Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "V2_REQUIRED_CHANGES.md: (1) withdraw dest lockdown"
-    },
-    {
-      "date": "2026-06-09T22:51:09Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Public performance snapshot (no band details): Por"
-    },
-    {
-      "date": "2026-06-09T22:46:06Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Privacy gating: public sees only pool basics (pool"
-    },
-    {
-      "date": "2026-06-09T22:39:39Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Position tab: Range & Steps visualization. Renders"
-    },
-    {
-      "date": "2026-06-09T22:38:09Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "FE: borrow PPT's working interaction stack. Add st"
-    },
-    {
-      "date": "2026-06-09T22:36:02Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Full portal: tabbed dashboard (Overview/Position/A"
-    },
-    {
-      "date": "2026-06-09T22:28:49Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Portal LIVE at eth.pentaswap.io: self-contained st"
-    },
-    {
-      "date": "2026-06-09T22:25:16Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "TWAP_WINDOW 300s->30s (~2-3 blocks) per Idon: span"
-    },
-    {
-      "date": "2026-06-09T22:24:15Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "TWAP_WINDOW 1800s->300s (5min) for the spot-vs-TWA"
-    },
-    {
-      "date": "2026-06-09T22:22:46Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Deploy script: real deployment (owner=deployer/ope"
-    },
-    {
-      "date": "2026-06-09T22:22:07Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Stage 2 (hardening + Gate1/2): SafeERC20 + forceAp"
-    },
-    {
-      "date": "2026-06-09T22:19:23Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Stage 2 (math): vendor real Uniswap TickMath/Liqui"
-    },
-    {
-      "date": "2026-06-09T22:02:19Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Stage 0: Foundry stand-up — libs install + clean b"
-    },
-    {
-      "date": "2026-06-09T20:58:53Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Lock decisions: static vhost serving (like PPT) + "
-    },
-    {
-      "date": "2026-06-09T20:54:00Z",
-      "author": "nftprof",
-      "login": "nftprof",
-      "repo": "eth-endowment-vault",
-      "message": "Initial scaffold: ETH/USDC endowment vault (fork o"
-    },
-    {
       "date": "2026-04-16T03:42:56Z",
       "author": "nftprof",
       "login": "nftprof",
       "repo": "products-pfpvault-admin",
       "message": "Initial commit"
-    },
-    {
-      "date": "2026-05-16T01:44:05Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "marketplace-v2-contract",
-      "message": "docs: rename to V1 (production) / V2 (development)"
-    },
-    {
-      "date": "2026-05-16T01:40:45Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "marketplace-v2-contract",
-      "message": "docs: upgrade auction spec - real auction house me"
-    },
-    {
-      "date": "2026-05-16T01:14:26Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "marketplace-v2-contract",
-      "message": "docs: comprehensive README with contract docs, flo"
-    },
-    {
-      "date": "2026-05-15T03:42:02Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "marketplace-v2-contract",
-      "message": "fix: V2.1 audit fixes - SafeERC20, consistent nati"
-    },
-    {
-      "date": "2026-05-14T23:36:02Z",
-      "author": "Idon Liu",
-      "login": "nftprof",
-      "repo": "marketplace-v2-contract",
-      "message": "feat: PentagonMarketplaceV2 - deployed to Pentagon"
     },
     {
       "date": "2026-07-06T15:49:25Z",
@@ -12457,55 +12842,6 @@
       "login": null,
       "repo": "products-website-frontend",
       "message": "change user-summary to show-wins"
-    },
-    {
-      "date": "2025-08-21T09:48:20Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "products-website-frontend",
-      "message": "update text"
-    },
-    {
-      "date": "2025-08-21T09:39:14Z",
-      "author": "Michael Nguyen",
-      "login": null,
-      "repo": "products-website-frontend",
-      "message": "update the auto select NFTs"
-    },
-    {
-      "date": "2025-08-20T09:15:31Z",
-      "author": "Michael Nguyen",
-      "login": null,
-      "repo": "products-website-frontend",
-      "message": "fix error build"
-    },
-    {
-      "date": "2025-08-20T09:09:04Z",
-      "author": "Michael Nguyen",
-      "login": null,
-      "repo": "products-website-frontend",
-      "message": "optimized call mining API"
-    },
-    {
-      "date": "2025-08-20T09:08:03Z",
-      "author": "Michael Nguyen",
-      "login": null,
-      "repo": "products-website-frontend",
-      "message": "integrate with the API mining airdrop rewards"
-    },
-    {
-      "date": "2025-08-19T11:09:38Z",
-      "author": "Michael Nguyen",
-      "login": null,
-      "repo": "products-website-frontend",
-      "message": "add Mine button for other chain"
-    },
-    {
-      "date": "2025-08-19T06:12:06Z",
-      "author": "Michael Nguyen",
-      "login": null,
-      "repo": "products-website-frontend",
-      "message": "fix issue #2"
     },
     {
       "date": "2026-07-03T02:16:08Z",
@@ -15546,27 +15882,6 @@
       "message": "citrea testnet"
     },
     {
-      "date": "2025-08-18T16:49:18Z",
-      "author": "Nitin Sharma",
-      "login": "nitin7dc",
-      "repo": "pendefi-ui",
-      "message": "v1.0.2"
-    },
-    {
-      "date": "2025-08-18T16:49:06Z",
-      "author": "Nitin Sharma",
-      "login": "nitin7dc",
-      "repo": "pendefi-ui",
-      "message": "env update"
-    },
-    {
-      "date": "2025-08-18T16:48:02Z",
-      "author": "Nitin Sharma",
-      "login": "nitin7dc",
-      "repo": "pendefi-ui",
-      "message": "minor update"
-    },
-    {
       "date": "2026-04-23T05:17:10Z",
       "author": "Idon Liu",
       "login": "nftprof",
@@ -17476,55 +17791,6 @@
       "login": "nkkhanh",
       "repo": "bcshxyz-website-frontend",
       "message": "add the super villains page and super villain deta"
-    },
-    {
-      "date": "2025-08-22T03:53:49Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "remove baiyi hero"
-    },
-    {
-      "date": "2025-08-21T10:14:04Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "Merge branch 'feature/2025-08/update-the-legendary"
-    },
-    {
-      "date": "2025-08-21T08:07:06Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "add tron hero"
-    },
-    {
-      "date": "2025-08-21T08:06:46Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "remove lazuli hero"
-    },
-    {
-      "date": "2025-08-21T08:06:21Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "update ton hero"
-    },
-    {
-      "date": "2025-08-21T07:40:52Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "fix the text color for the dark theme on the mobil"
-    },
-    {
-      "date": "2025-08-21T06:25:42Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "bcshxyz-website-frontend",
-      "message": "add the products page"
     },
     {
       "date": "2026-02-20T00:05:19Z",
@@ -22049,55 +22315,6 @@
       "message": "add the super villains page and super villain deta"
     },
     {
-      "date": "2025-08-22T03:53:49Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "remove baiyi hero"
-    },
-    {
-      "date": "2025-08-21T10:14:04Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "Merge branch 'feature/2025-08/update-the-legendary"
-    },
-    {
-      "date": "2025-08-21T08:07:06Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "add tron hero"
-    },
-    {
-      "date": "2025-08-21T08:06:46Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "remove lazuli hero"
-    },
-    {
-      "date": "2025-08-21T08:06:21Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "update ton hero"
-    },
-    {
-      "date": "2025-08-21T07:40:52Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "fix the text color for the dark theme on the mobil"
-    },
-    {
-      "date": "2025-08-21T06:25:42Z",
-      "author": "Michael Nguyen",
-      "login": "nkkhanh",
-      "repo": "games-bcsh-frontend",
-      "message": "add the products page"
-    },
-    {
       "date": "2026-06-01T08:09:55Z",
       "author": "Michael Nguyen",
       "login": null,
@@ -23783,20 +24000,6 @@
       "login": "ganeshsali",
       "repo": "games-gunnies-backend",
       "message": "Add support of lootlocker currency deduction"
-    },
-    {
-      "date": "2025-08-20T13:15:02Z",
-      "author": "Ganesh",
-      "login": "ganeshsali",
-      "repo": "games-gunnies-backend",
-      "message": "Replace account on PG connect and add onchain tx i"
-    },
-    {
-      "date": "2025-08-20T08:26:37Z",
-      "author": "Ganesh",
-      "login": "ganeshsali",
-      "repo": "games-gunnies-backend",
-      "message": "Create stripe user on PG account connect"
     },
     {
       "date": "2026-05-24T04:42:20Z",
@@ -27971,20 +28174,6 @@
       "message": "returning skybox from buffer to url"
     },
     {
-      "date": "2025-08-19T09:03:35Z",
-      "author": "syed mohib",
-      "login": null,
-      "repo": "ai-pen-services",
-      "message": "Reverted back"
-    },
-    {
-      "date": "2025-08-19T08:59:41Z",
-      "author": "syed mohib",
-      "login": null,
-      "repo": "ai-pen-services",
-      "message": "Reverted from buffer to base64 for text to image"
-    },
-    {
       "date": "2026-02-12T06:41:41Z",
       "author": "nftprof",
       "login": "nftprof",
@@ -28398,13 +28587,6 @@
       "message": "Added cron to check dev wallet gas"
     },
     {
-      "date": "2025-08-22T10:27:33Z",
-      "author": "Ganesh",
-      "login": "ganeshsali",
-      "repo": "chain-mining-cron",
-      "message": "Added cron to get airdrop contract balance and amo"
-    },
-    {
       "date": "2025-11-26T13:22:32Z",
       "author": "Ganesh",
       "login": "ganeshsali",
@@ -28510,27 +28692,6 @@
       "message": "Check gas when return available rewards"
     },
     {
-      "date": "2025-08-22T11:21:40Z",
-      "author": "Ganesh",
-      "login": "ganeshsali",
-      "repo": "chain-mining-backend",
-      "message": "Change available rewards api logic"
-    },
-    {
-      "date": "2025-08-21T10:52:11Z",
-      "author": "Ganesh",
-      "login": "ganeshsali",
-      "repo": "chain-mining-backend",
-      "message": "Change chain name and respinse of available reward"
-    },
-    {
-      "date": "2025-08-19T14:28:22Z",
-      "author": "Ganesh",
-      "login": "ganeshsali",
-      "repo": "chain-mining-backend",
-      "message": "Make api to return available airdrop rewards"
-    },
-    {
       "date": "2025-11-14T14:22:09Z",
       "author": "Ganesh",
       "login": "ganeshsali",
@@ -28592,41 +28753,6 @@
       "login": "ChaseNguyen",
       "repo": "games-pentapets-tbh",
       "message": "fix text pentagon"
-    },
-    {
-      "date": "2025-08-22T15:36:46Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "games-pentapets-tbh",
-      "message": "center how to play"
-    },
-    {
-      "date": "2025-08-22T07:32:38Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "games-pentapets-tbh",
-      "message": "add new about"
-    },
-    {
-      "date": "2025-08-21T15:34:55Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "games-pentapets-tbh",
-      "message": "impove some feedbacks"
-    },
-    {
-      "date": "2025-08-20T01:16:38Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "games-pentapets-tbh",
-      "message": "add button animation"
-    },
-    {
-      "date": "2025-08-18T13:37:14Z",
-      "author": "ntchungse",
-      "login": "ChaseNguyen",
-      "repo": "games-pentapets-tbh",
-      "message": "add coin click"
     }
   ],
   "prs": [
@@ -28890,13 +29016,6 @@
       "title": "netcode/deploy: battlefield-from-JSON + obfuscated"
     },
     {
-      "date": "2026-08-16T09:01:22Z",
-      "author": "nftprof",
-      "repo": "products-wallet-rn",
-      "state": "open",
-      "title": "feat(agent-stage): @pentagon-ai/agent-stage — pres"
-    },
-    {
       "date": "2026-08-07T11:33:21Z",
       "author": "nftprof",
       "repo": "etherfantasy-clashfront",
@@ -28986,6 +29105,69 @@
       "repo": "etherfantasy-clashfront",
       "state": "closed",
       "title": "integration: deliver authoritative legacy.json + f"
+    },
+    {
+      "date": "2026-08-16T09:01:22Z",
+      "author": "nftprof",
+      "repo": "products-wallet-rn",
+      "state": "open",
+      "title": "feat(agent-stage): @pentagon-ai/agent-stage — pres"
+    },
+    {
+      "date": "2025-12-22T11:15:55Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "add alowed cors"
+    },
+    {
+      "date": "2025-12-22T03:18:32Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "upgrade react 2 shell"
+    },
+    {
+      "date": "2025-08-27T05:59:49Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "add metamask login"
+    },
+    {
+      "date": "2025-08-04T15:48:51Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "Fix/debug ip"
+    },
+    {
+      "date": "2025-08-04T07:41:19Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "update ip management"
+    },
+    {
+      "date": "2025-07-31T07:40:03Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "Feat/test"
+    },
+    {
+      "date": "2025-07-17T01:26:59Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "init project"
+    },
+    {
+      "date": "2025-06-02T05:56:50Z",
+      "author": "ntchungse",
+      "repo": "cli-pentagon-config-fe",
+      "state": "closed",
+      "title": "Feat/init pm2"
     },
     {
       "date": "2026-06-17T21:37:33Z",
@@ -29688,6 +29870,118 @@
       "title": "Modify friendship api and add pending friends api"
     },
     {
+      "date": "2026-07-27T13:39:48Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "EF Arcade coin-op explainer"
+    },
+    {
+      "date": "2026-07-27T13:00:26Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "PayHub docs: dev guide, per-game handoffs, HMAC ha"
+    },
+    {
+      "date": "2026-07-27T12:24:32Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "HMAC-secret handshake in game handoffs"
+    },
+    {
+      "date": "2026-07-27T11:56:46Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "Per-game PayHub hand-offs (Hunt/AR/MOBA/CF)"
+    },
+    {
+      "date": "2026-07-27T10:46:13Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "PAYHUB_DEVELOPER_GUIDE + link-pgai payload"
+    },
+    {
+      "date": "2026-07-27T05:35:50Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "Support page for App Store (iOS) submission"
+    },
+    {
+      "date": "2026-07-27T05:07:10Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "GAME_PAYHUB_API_V5 — game integration spec"
+    },
+    {
+      "date": "2026-07-27T04:57:29Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "DNA1155 v2 (linked-target) + PGAI linking + migrat"
+    },
+    {
+      "date": "2026-07-26T03:15:45Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "Karma Meter spec + endpoint (Karma→Fortune theme)"
+    },
+    {
+      "date": "2026-07-25T14:50:07Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "Vault rental dashboard + metadata/rental-perf back"
+    },
+    {
+      "date": "2026-07-25T14:48:58Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "Trunk: DNA claim pool + gas faucet + DNA_PAYHUB_FL"
+    },
+    {
+      "date": "2026-07-25T13:41:03Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "PayHub v5: gate-2 inventory roll + DNA_PAYHUB_FLOW"
+    },
+    {
+      "date": "2026-07-25T10:54:56Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "V2 wave 2: site audio, World atlas, signup SSO, Ge"
+    },
+    {
+      "date": "2026-07-16T02:22:34Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "GamePayHub — payment + DNA hub for EF Hunt / AR"
+    },
+    {
+      "date": "2026-07-15T20:56:59Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "Merge v2-redesign-masters-presale → main (54 commi"
+    },
+    {
+      "date": "2026-06-19T07:17:48Z",
+      "author": "nftprof",
+      "repo": "games-etherfantasy",
+      "state": "closed",
+      "title": "V2: site redesign + Masters NFT own/rent + Pentago"
+    },
+    {
       "date": "2026-06-19T09:00:49Z",
       "author": "nftprof",
       "repo": "games-etherfantasy-backend",
@@ -29700,62 +29994,6 @@
       "repo": "games-etherfantasy-backend",
       "state": "open",
       "title": "Cap genesis mint at 10,000"
-    },
-    {
-      "date": "2025-12-22T11:15:55Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "add alowed cors"
-    },
-    {
-      "date": "2025-12-22T03:18:32Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "upgrade react 2 shell"
-    },
-    {
-      "date": "2025-08-27T05:59:49Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "add metamask login"
-    },
-    {
-      "date": "2025-08-04T15:48:51Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "Fix/debug ip"
-    },
-    {
-      "date": "2025-08-04T07:41:19Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "update ip management"
-    },
-    {
-      "date": "2025-07-31T07:40:03Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "Feat/test"
-    },
-    {
-      "date": "2025-07-17T01:26:59Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "init project"
-    },
-    {
-      "date": "2025-06-02T05:56:50Z",
-      "author": "ntchungse",
-      "repo": "cli-pentagon-config-fe",
-      "state": "closed",
-      "title": "Feat/init pm2"
     },
     {
       "date": "2026-07-29T11:38:20Z",
@@ -29987,118 +30225,6 @@
       "repo": "products-pfpvault-backend",
       "state": "closed",
       "title": "Develop"
-    },
-    {
-      "date": "2026-07-27T13:39:48Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "EF Arcade coin-op explainer"
-    },
-    {
-      "date": "2026-07-27T13:00:26Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "PayHub docs: dev guide, per-game handoffs, HMAC ha"
-    },
-    {
-      "date": "2026-07-27T12:24:32Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "HMAC-secret handshake in game handoffs"
-    },
-    {
-      "date": "2026-07-27T11:56:46Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "Per-game PayHub hand-offs (Hunt/AR/MOBA/CF)"
-    },
-    {
-      "date": "2026-07-27T10:46:13Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "PAYHUB_DEVELOPER_GUIDE + link-pgai payload"
-    },
-    {
-      "date": "2026-07-27T05:35:50Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "Support page for App Store (iOS) submission"
-    },
-    {
-      "date": "2026-07-27T05:07:10Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "GAME_PAYHUB_API_V5 — game integration spec"
-    },
-    {
-      "date": "2026-07-27T04:57:29Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "DNA1155 v2 (linked-target) + PGAI linking + migrat"
-    },
-    {
-      "date": "2026-07-26T03:15:45Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "Karma Meter spec + endpoint (Karma→Fortune theme)"
-    },
-    {
-      "date": "2026-07-25T14:50:07Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "Vault rental dashboard + metadata/rental-perf back"
-    },
-    {
-      "date": "2026-07-25T14:48:58Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "Trunk: DNA claim pool + gas faucet + DNA_PAYHUB_FL"
-    },
-    {
-      "date": "2026-07-25T13:41:03Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "PayHub v5: gate-2 inventory roll + DNA_PAYHUB_FLOW"
-    },
-    {
-      "date": "2026-07-25T10:54:56Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "V2 wave 2: site audio, World atlas, signup SSO, Ge"
-    },
-    {
-      "date": "2026-07-16T02:22:34Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "GamePayHub — payment + DNA hub for EF Hunt / AR"
-    },
-    {
-      "date": "2026-07-15T20:56:59Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "Merge v2-redesign-masters-presale → main (54 commi"
-    },
-    {
-      "date": "2026-06-19T07:17:48Z",
-      "author": "nftprof",
-      "repo": "games-etherfantasy",
-      "state": "closed",
-      "title": "V2: site redesign + Masters NFT own/rent + Pentago"
     },
     {
       "date": "2026-06-30T19:29:26Z",
@@ -33094,41 +33220,6 @@
   ],
   "calendar": [
     {
-      "date": "2025-08-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-18",
-      "count": 4,
-      "level": 1
-    },
-    {
-      "date": "2025-08-19",
-      "count": 7,
-      "level": 1
-    },
-    {
-      "date": "2025-08-20",
-      "count": 6,
-      "level": 1
-    },
-    {
-      "date": "2025-08-21",
-      "count": 18,
-      "level": 1
-    },
-    {
-      "date": "2025-08-22",
-      "count": 8,
-      "level": 1
-    },
-    {
-      "date": "2025-08-23",
-      "count": 0,
-      "level": 0
-    },
-    {
       "date": "2025-08-24",
       "count": 0,
       "level": 0
@@ -34920,15 +35011,50 @@
     },
     {
       "date": "2026-08-17",
+      "count": 6,
+      "level": 1
+    },
+    {
+      "date": "2026-08-18",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-19",
+      "count": 13,
+      "level": 1
+    },
+    {
+      "date": "2026-08-20",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-08-21",
+      "count": 15,
+      "level": 1
+    },
+    {
+      "date": "2026-08-22",
+      "count": 18,
+      "level": 1
+    },
+    {
+      "date": "2026-08-23",
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-08-24",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "totalCommits": 4088,
+    "totalCommits": 4106,
     "totalPRs": 632,
     "totalIssues": 5,
-    "totalContributions": 5357,
+    "totalContributions": 5375,
     "totalRepos": 342
   }
 }
